@@ -45,6 +45,16 @@
     "source": "revolution-hall"
   },
   {
+    "id": "auto-a6f8e62795c6dc09d4285e25",
+    "artist": "New Member Orientation",
+    "date": "2026-11-20",
+    "time": "18:00",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/new-member-orientation-november20",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+  },
+  {
     "id": "auto-f3b8026006c05936af08798e",
     "artist": "Growing Pains",
     "date": "2026-11-20",
@@ -97,6 +107,16 @@
     "venueId": "revolution-hall",
     "ticketUrl": "https://www.etix.com/ticket/p/91940693/phoebe-robinsonferal-fired-up-portland-revolution-hall",
     "source": "revolution-hall"
+  },
+  {
+    "id": "auto-86b872a78ab1d8150a800bb7",
+    "artist": "SLP Tabling at PAM CUT’s Plus Plus Market",
+    "date": "2026-11-21",
+    "time": "12:00",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/tablingatpamcutplusplusmediamarketnov21",
+    "source": "synth-library-portland",
+    "location": "1219 Southwest Park Avenue, Portland, Oregon, 97205, United States"
   },
   {
     "id": "auto-d7d384291eba5557cf849c6a",
@@ -198,6 +218,16 @@
     "source": "revolution-hall"
   },
   {
+    "id": "auto-e9078c7d94bbf40d56059bfd",
+    "artist": "Women and Non-Binary Electronic Music Meetup",
+    "date": "2026-11-25",
+    "time": "17:30",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/women-and-nonbinary-electronic-music-meetup-nov25",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+  },
+  {
     "id": "auto-e82d39d48c9acde52297a064",
     "artist": "Crystal Ballroom History & Art Tour",
     "date": "2026-11-26",
@@ -232,6 +262,16 @@
     "venueId": "revolution-hall",
     "ticketUrl": "https://www.etix.com/ticket/p/36423231/neurosis-portland-revolution-hall",
     "source": "revolution-hall"
+  },
+  {
+    "id": "auto-4362d15b642e15184eb5e85a",
+    "artist": "New Volunteer Orientation",
+    "date": "2026-11-27",
+    "time": "17:30",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/new-volunteer-orientation-november27",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States"
   },
   {
     "id": "auto-f52331ce8ed11f4103aefeed",
@@ -297,6 +337,16 @@
     "source": "revolution-hall"
   },
   {
+    "id": "auto-671e50d384898ac92a3dbbda",
+    "artist": "Intro to Drum Synthesis",
+    "date": "2026-11-29",
+    "time": "13:30",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/intro-to-drum-synthesis-nov29-djmdd",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States"
+  },
+  {
     "id": "auto-4c53227f22a8fb664c87cc9b",
     "artist": "Jalen Ngonda: Doctrine of Love Tour",
     "date": "2026-11-29",
@@ -324,6 +374,16 @@
     "source": "revolution-hall"
   },
   {
+    "id": "auto-cb02db30392e625db18a9270",
+    "artist": "Big Challenges: Synth Library Portland Keyboard Ensemble",
+    "date": "2026-12-01",
+    "time": "18:00",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/women-and-nonbinary-electronic-mubig-challenges-synth-library-portland-keyboard-ensemble-dec1",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+  },
+  {
     "id": "auto-99aeb3e47fbffd7aaa17cf9f",
     "artist": "Thoughts on Bowling",
     "date": "2026-12-02",
@@ -331,6 +391,16 @@
     "venueId": "polaris-hall",
     "ticketUrl": "https://www.etix.com/ticket/p/64205006",
     "source": "polaris-hall"
+  },
+  {
+    "id": "auto-87bc2a0b76aa3a4800bb00bf",
+    "artist": "Synth DIY Meetup",
+    "date": "2026-12-02",
+    "time": "17:30",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/sdiymeetupndecember2nd",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
   },
   {
     "id": "auto-931600ea446e1f200cc41157",
@@ -450,6 +520,16 @@
     "source": "revolution-hall"
   },
   {
+    "id": "auto-3430528009ecad5805e9e95f",
+    "artist": "Electronic Music Meetup for People in Recovery",
+    "date": "2026-12-05",
+    "time": "18:00",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/electronicmusicmeetupforpeopleinrecovery-dec5",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States"
+  },
+  {
     "id": "auto-cc4ef56db0062fee3a3d45ff",
     "artist": "feeble little horse – bitknot tour",
     "date": "2026-12-05",
@@ -511,6 +591,16 @@
     "venueId": "revolution-hall",
     "ticketUrl": "https://www.etix.com/ticket/p/62407948/choirchoirchoir-portland-revolution-hall",
     "source": "revolution-hall"
+  },
+  {
+    "id": "auto-0abd9d298776e5397d1b7cc3",
+    "artist": "Open Channels",
+    "date": "2026-12-06",
+    "time": "15:00",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/open-channels-december6",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
   },
   {
     "id": "auto-353b2a767f6a48472a08ba4a",
@@ -576,6 +666,16 @@
     "source": "revolution-hall"
   },
   {
+    "id": "auto-f6799592b2bbf95e300c67e2",
+    "artist": "Ableton Rack Design",
+    "date": "2026-12-08",
+    "time": "18:00",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/abletonrackdesign-dec8",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States"
+  },
+  {
     "id": "auto-65c1256a0326e09125ccb1bd",
     "artist": "Spike and the Gimme Gimmes",
     "date": "2026-12-09",
@@ -601,6 +701,16 @@
     "venueId": "polaris-hall",
     "ticketUrl": "https://www.etix.com/ticket/p/70407603",
     "source": "polaris-hall"
+  },
+  {
+    "id": "auto-d475b5e8aa0d0e3a44067ddf",
+    "artist": "Gay Synth Hang",
+    "date": "2026-12-09",
+    "time": "17:30",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/gay-synth-hang-dec9",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
   },
   {
     "id": "auto-6cada2a37442f5c4d0ae71c0",
@@ -646,6 +756,16 @@
     "venueId": "revolution-hall",
     "ticketUrl": "https://www.etix.com/ticket/p/32891845/live-wire-with-luke-burbank-portland-revolution-hall",
     "source": "revolution-hall"
+  },
+  {
+    "id": "auto-31c1c685ed6df0aa79434f40",
+    "artist": "SLP Benefit Party 2026",
+    "date": "2026-12-10",
+    "time": "20:00",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/endofyearfundraiser2026",
+    "source": "synth-library-portland",
+    "location": "5040 Southeast Milwaukie Avenue, Portland, OR, 97202, United States"
   },
   {
     "id": "auto-79ebe6a9b03224c93983fe1b",
@@ -711,6 +831,16 @@
     "source": "revolution-hall"
   },
   {
+    "id": "auto-2a376e97e4737def2e53501e",
+    "artist": "Intro to Ableton Live",
+    "date": "2026-12-12",
+    "time": "13:30",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/intro-to-ableton-live-december-12",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States"
+  },
+  {
     "id": "auto-362f355ce422983d508466bc",
     "artist": "Young the Giant",
     "date": "2026-12-13",
@@ -736,6 +866,16 @@
     "venueId": "polaris-hall",
     "ticketUrl": "https://www.etix.com/ticket/p/42616781",
     "source": "polaris-hall"
+  },
+  {
+    "id": "auto-76693abd8eba177a3c703b6d",
+    "artist": "Emergent Patching: Utilizing Ecological Principles in Generative Composition",
+    "date": "2026-12-13",
+    "time": "15:00",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/emergent-patching-generative-composition-december13",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States"
   },
   {
     "id": "auto-010ecba1c113731c0aff20fc",
@@ -765,6 +905,16 @@
     "source": "revolution-hall"
   },
   {
+    "id": "auto-2bd440364a65b6e37e237c03",
+    "artist": "Big Challenges: Synth Library Portland Keyboard Ensemble",
+    "date": "2026-12-15",
+    "time": "18:00",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/big-challenges-synth-library-portland-keyboard-ensemble-dec15",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+  },
+  {
     "id": "auto-b67a1db7ed6d136755fc02b6",
     "artist": "almost monday",
     "date": "2026-12-16",
@@ -781,6 +931,16 @@
     "venueId": "mississippi-studios",
     "ticketUrl": "https://www.etix.com/ticket/p/66697949/45th-parallel-holiday-variety-show-ii-portland-mississippi-studios",
     "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-1db3f14895cf4aaac514ba08",
+    "artist": "Synth DIY Meetup",
+    "date": "2026-12-16",
+    "time": "17:30",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/sdiymeetupdecember16",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
   },
   {
     "id": "auto-ee4be93203088df14c724998",
@@ -837,6 +997,16 @@
     "source": "revolution-hall"
   },
   {
+    "id": "auto-73030d6e3c0a73e22812c095",
+    "artist": "New Member Orientation",
+    "date": "2026-12-18",
+    "time": "18:00",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/new-member-orientation-november20-6ls3g",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+  },
+  {
     "id": "auto-787e36af19ee66c678aa16c2",
     "artist": "A Holiday Spectacular with Mitch & His Merry Melody Makers",
     "date": "2026-12-19",
@@ -864,6 +1034,16 @@
     "source": "revolution-hall"
   },
   {
+    "id": "auto-db28510d8c3dfeb5b59bd87c",
+    "artist": "Build a MOD2 Reprogrammable Sample/Drum Module",
+    "date": "2026-12-19",
+    "time": "13:30",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/build-a-mod2-reprogrammable-sample-drum-module",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+  },
+  {
     "id": "auto-9dba68f77c94b02c37c66687",
     "artist": "Crystal Ballroom History & Art Tour",
     "date": "2026-12-20",
@@ -882,6 +1062,16 @@
     "source": "mississippi-studios"
   },
   {
+    "id": "auto-b4aec8b7b78e75a1134200e3",
+    "artist": "Intro to Synthesis",
+    "date": "2026-12-20",
+    "time": "13:30",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/intro-to-modular-synthesis-december20th",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+  },
+  {
     "id": "auto-5dbf91bf1759325455935360",
     "artist": "MAE.SUN 6th Annual Winter Solstice Party",
     "date": "2026-12-21",
@@ -898,6 +1088,16 @@
     "venueId": "revolution-hall",
     "ticketUrl": "https://www.etix.com/ticket/p/58804940/an-evening-with-peter-sagal-host-of-wait-wait-dont-tell-me-portland-revolution-hall",
     "source": "revolution-hall"
+  },
+  {
+    "id": "auto-587c3766cc8dbe64623fd2e8",
+    "artist": "Women and Non-Binary Electronic Music Meetup",
+    "date": "2026-12-23",
+    "time": "17:30",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/women-and-nonbinary-electronic-music-meetup-dec23",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
   },
   {
     "id": "auto-9459c5814b85fd007d26feee",
@@ -1078,6 +1278,16 @@
     "venueId": "revolution-hall",
     "ticketUrl": "https://www.etix.com/ticket/p/99668038/dogs-in-a-pile-portland-revolution-hall",
     "source": "revolution-hall"
+  },
+  {
+    "id": "auto-318cb45426affbdc5060d855",
+    "artist": "Music Theory and Keyboard Skills for Electronic Musicians (Copy)",
+    "date": "2027-01-09",
+    "time": "13:30",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/musictheoryandpianokeyboardskillsforelectronicmusicians-jan9",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States"
   },
   {
     "id": "auto-0a37e6f0eb53771804d2fd3d",
