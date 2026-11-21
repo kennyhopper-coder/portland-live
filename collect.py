@@ -6,7 +6,7 @@ import sys
 from datetime import datetime, timedelta
 from html import unescape
 from pathlib import Path
-from urllib.parse import urlsplit
+from urllib.parse import parse_qs, urljoin, urlsplit
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
 
@@ -19,6 +19,7 @@ SITES = {
     "polaris-hall": "https://polarishall.com/",
     "revolution-hall": "https://www.revolutionhall.com/",
     "crystal-ballroom": "https://www.crystalballroompdx.com/wp-json/tribe/events/v1/events?per_page=50",
+    "synth-library-portland": "https://www.synthlibraryportland.org/events",
     "wonder-ballroom": "https://wonderballroom.com/events/",
 }
 
@@ -60,7 +61,22 @@ def rows(venue, today):
             url = page.get("next_rest_url")
             continue
         doc = html.fromstring(json.loads(raw) if raw.lstrip().startswith(chr(34)) else raw)
-        if venue == "wonder-ballroom":
+        if venue == "synth-library-portland":
+            cards = nodes(doc, "eventlist-event")
+            if not cards:
+                raise ValueError("Unrecognized Synth Library calendar")
+            for card in cards:
+                link = nodes(card, "eventlist-title-link")[0]
+                calendar = card.xpath('.//a[contains(@href,"calendar/event") and contains(@href,"dates=")]/@href')[0]
+                params = parse_qs(urlsplit(calendar).query)
+                stamp = params["dates"][0].split("/")[0]
+                start = datetime.fromisoformat(stamp)
+                if start.tzinfo:
+                    start = start.astimezone(PORTLAND)
+                location = params.get("location", [""])[0]
+                yield (link.text_content(), start.date(), start.strftime("%H:%M") if "T" in stamp else "",
+                       urljoin(SITES[venue], link.get("href")), location)
+        elif venue == "wonder-ballroom":
             cards = nodes(doc, "eventWrapper")
             signature = tuple(value(card,'.//a[@id="eventTitle"]/@href') for card in cards)
             if signature in wonder_pages:
@@ -113,7 +129,7 @@ def rows(venue, today):
 
 def collect(venue, today):
     result = {}
-    for title, date, time, url in rows(venue,today):
+    for title, date, time, url, *location in rows(venue,today):
         artist = " ".join(title.split())
         if not artist or urlsplit(url).scheme not in ("http","https") or not urlsplit(url).hostname:
             raise ValueError("Incomplete event")
@@ -124,7 +140,9 @@ def collect(venue, today):
         uid = "auto-" + hashlib.sha256(f"{venue}|{key}|{date}".encode()).hexdigest()[:24]
         if uid not in result or time:
             result[uid] = dict(id=uid, artist=artist,date=date.isoformat(),time=time,venueId=venue,ticketUrl=url,source=venue)
-    if not result:
+            if location and location[0]:
+                result[uid]["location"] = location[0]
+    if not result and venue != "synth-library-portland":
         raise ValueError("No validated upcoming shows")
     return list(result.values())
 

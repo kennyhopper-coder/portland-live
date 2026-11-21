@@ -36,7 +36,7 @@
     const matches = linked ? shows.filter(s => s.date>=first && s.date<=last && matchTitle(s.artist,names))
       .sort((a,b)=>a.date.localeCompare(b.date)||a.time.localeCompare(b.time)) : [];
     const summary = linked
-      ? (matches.length ? 'Next 90 days · Portland' : 'No matches in the next 90 days at the five venues on this calendar.')
+      ? (matches.length ? 'Next 90 days · Portland' : 'No matches in the next 90 days at the venues on this calendar.')
       : 'See when artists you follow on Spotify are playing in Portland in the next 90 days.';
     panel.innerHTML = '<div class="eyebrow">Spotify · Portland</div><h2>Your artists in town</h2><p>'+summary+'</p>'+
       matches.map(s=>'<div><p class="minor">'+esc(parseDate(s.date).toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'}))+'</p>'+showCard(s)+'</div>').join('')+
