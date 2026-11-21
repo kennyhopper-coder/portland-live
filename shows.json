@@ -1,1 +1,2846 @@
-[]
+[
+  {
+    "id": "auto-79002cd93b634c941048471b",
+    "artist": "Crystal Ballroom History & Art Tour",
+    "date": "2026-11-19",
+    "time": "10:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279285-crystal-ballroom-history-art-tour/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-0c1267ba249bf38be971a448",
+    "artist": "Thundercat",
+    "date": "2026-11-19",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/277813-thundercat/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-9f264d3867505ffd00c73993",
+    "artist": "The Cactus Blossoms",
+    "date": "2026-11-19",
+    "time": "20:00",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/40638516/the-cactus-blossoms-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-b837555290845e35473a540d",
+    "artist": "MATTRESS - 20 YEARS OF MATTRESS",
+    "date": "2026-11-19",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/91263217",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-58d3918d0e1c6714d1d73a85",
+    "artist": "Jamila Woods: 10 Years of HEAVN",
+    "date": "2026-11-19",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/jamila-woods-10-years-of-heavn/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-a8d433fc79e5eb6c1781472b",
+    "artist": "Haley Johnsen",
+    "date": "2026-11-20",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/278001-haley-johnsen/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-bb10461ea2a8fe7143804cd6",
+    "artist": "RESCHEDULED TO 3/17/27 AT POLARIS HALL: Luke Kidgell",
+    "date": "2026-11-20",
+    "time": "00:00",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/93977387/rescheduled-to-31727-at-polaris-hallluke-kidgell-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-95de441194319938aa6c6214",
+    "artist": "Sallie Ford & the Sound Outside",
+    "date": "2026-11-20",
+    "time": "21:00",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/54677666/sallie-ford-the-sound-outside-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-9b0281a747f9582d7e684f60",
+    "artist": "The Teacher Show: Comedy from the Classroom (Night 1)",
+    "date": "2026-11-20",
+    "time": "19:30",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/73273847",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-6ddc63a9ee88f7927d0e9628",
+    "artist": "SOLD OUT: Gary Numan North American Fall Tour 2026",
+    "date": "2026-11-20",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/73115991/sold-outgary-numan-north-american-fall-tour-2026-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-f3b8026006c05936af08798e",
+    "artist": "Growing Pains",
+    "date": "2026-11-20",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/growing-pains-2/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-3da4ed0c13d51c0a530ecfe9",
+    "artist": "90’s Dance Flashback",
+    "date": "2026-11-21",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/278430-90s-dance-flashback/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-90dd6dfd4c6907e1bc8bc564",
+    "artist": "RESCHEDULED TO 3/17/27 AT POLARIS HALL: Luke Kidgell",
+    "date": "2026-11-21",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/93977387/rescheduled-to-31727-at-polaris-hallluke-kidgell-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-68318d870b4e06e3d4f5bee2",
+    "artist": "Bobby Short Shorts: An Evening of Grateful Dead Music",
+    "date": "2026-11-21",
+    "time": "21:00",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/86386129/bobby-short-shortsan-evening-of-grateful-dead-music-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-ce22cb333653ed6fc648304a",
+    "artist": "The Teacher Show: Comedy from the Classroom (Night 2)",
+    "date": "2026-11-21",
+    "time": "19:30",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/65038002",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-38ba3a2b85cd8116f958b7cd",
+    "artist": "Phoebe Robinson: Feral & Fired Up!",
+    "date": "2026-11-21",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/91940693/phoebe-robinsonferal-fired-up-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-d7d384291eba5557cf849c6a",
+    "artist": "Crystal Ballroom History & Art Tour",
+    "date": "2026-11-22",
+    "time": "10:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279284-crystal-ballroom-history-art-tour/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-cfb4a01ec7d7de5669469af5",
+    "artist": "Jack Bensinger",
+    "date": "2026-11-22",
+    "time": "20:00",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/90187834/jack-bensinger-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-bbe3db7adcbf1aa399307b22",
+    "artist": "Mx. Dahlia Belle: Affirmed (A Live Comedy Taping)",
+    "date": "2026-11-22",
+    "time": "19:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/36347493",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-42901941f767592b5e72a96f",
+    "artist": "Senses Fail",
+    "date": "2026-11-23",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/277292-senses-fail/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-77c8a0f0d965e44712fca9c7",
+    "artist": "Local Love Letter #30: Victory Over The Sun",
+    "date": "2026-11-23",
+    "time": "20:00",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/50476902/local-love-letter-30victory-over-the-sun-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-7c41f818a3781862c29ea3a1",
+    "artist": "Babe Haven",
+    "date": "2026-11-23",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/59224066",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-63fa658b7f09bd50705fc895",
+    "artist": "Chorale For A Cause",
+    "date": "2026-11-24",
+    "time": "19:30",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/88154444/chorale-for-a-cause-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-cd020ee8c230d919555c06a8",
+    "artist": "Portland School III",
+    "date": "2026-11-24",
+    "time": "19:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/36916561",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-ff31ac06c02bc46c275d00c2",
+    "artist": "The Pynnacles + Jewelry Exchange",
+    "date": "2026-11-25",
+    "time": "20:00",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/36469338/the-pynnacles-jewelry-exchange-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-1b0d75d99128811f932ddc6c",
+    "artist": "MOVED TO ALADDIN THEATER: Emma Ruth Rundle - THESE KILLING TIMES",
+    "date": "2026-11-25",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/94434785",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-ff7d27d833153e5c8e344882",
+    "artist": "Scott Bradlee’s Postmodern Jukebox – The Future Is Vintage World Tour",
+    "date": "2026-11-25",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/33093850/scott-bradlees-postmodern-jukebox-the-future-is-vintage-world-tour-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-e82d39d48c9acde52297a064",
+    "artist": "Crystal Ballroom History & Art Tour",
+    "date": "2026-11-26",
+    "time": "10:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279283-crystal-ballroom-history-art-tour/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-c6fdb343f99b6a4d5245d858",
+    "artist": "Decadent 80s Dance Party",
+    "date": "2026-11-27",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/278681-decadent-80s-dance-party/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-d9771fb635b574eeee2d0e93",
+    "artist": "Grand Royale – Beastie Boys Tribute",
+    "date": "2026-11-27",
+    "time": "21:00",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/35054633/grand-royale-beastie-boys-tribute-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-e8bb0f7280940806de6532fb",
+    "artist": "Neurosis",
+    "date": "2026-11-27",
+    "time": "19:30",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/36423231/neurosis-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-f52331ce8ed11f4103aefeed",
+    "artist": "Inaugural Holiday Bazaar Brewfest",
+    "date": "2026-11-28",
+    "time": "13:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/278692-inaugural-holiday-bazaar-brewfest/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-d21812ac51ae44f4f9a7f035",
+    "artist": "Tony Furtado Band 15th Annual Post-Thanksgiving Bash",
+    "date": "2026-11-28",
+    "time": "20:00",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/47269957/tony-furtado-band-15th-annual-postthanksgiving-bash-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-03b31d2f4568fac767551bfd",
+    "artist": "Sap",
+    "date": "2026-11-28",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/90939965",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-a512af9361687b636d017d7e",
+    "artist": "Neurosis",
+    "date": "2026-11-28",
+    "time": "19:30",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/91554135/neurosis-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-6d2a9afabd690123cf662dde",
+    "artist": "J-Fell & Nite Wave present: The Cure, Depeche Mode & New Order Tribute Night",
+    "date": "2026-11-28",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/j-fell-nite-wave-present-the-cure-depeche-mode-new-order-tribute-night/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-533d7aecec3505184b8f6c70",
+    "artist": "Crystal Ballroom History & Art Tour",
+    "date": "2026-11-29",
+    "time": "10:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279282-crystal-ballroom-history-art-tour/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-c3fbfa6cb3d3d54b2267ff06",
+    "artist": "Pink Martini",
+    "date": "2026-11-29",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/95614321/pink-martini-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-4c53227f22a8fb664c87cc9b",
+    "artist": "Jalen Ngonda: Doctrine of Love Tour",
+    "date": "2026-11-29",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/jalen-ngonda-doctrine-of-love-tour/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-240e9ebe0959f4accc2ea106",
+    "artist": "THE KILANS - COULD YOU KEEP IT DARK? TOUR",
+    "date": "2026-11-30",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/90086202",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-7fbbbbae5880574fcde20a8a",
+    "artist": "Pink Martini",
+    "date": "2026-11-30",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/66160391/pink-martini-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-99aeb3e47fbffd7aaa17cf9f",
+    "artist": "Thoughts on Bowling",
+    "date": "2026-12-02",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/64205006",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-931600ea446e1f200cc41157",
+    "artist": "Crystal Ballroom History & Art Tour",
+    "date": "2026-12-03",
+    "time": "10:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279672-crystal-ballroom-history-art-tour/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-fd598bbbe9ae8543f5b5052c",
+    "artist": "Dirty Heads",
+    "date": "2026-12-03",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279125-dirty-heads/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-e883b42f64e8a229bc0ab1c1",
+    "artist": "Gauri B",
+    "date": "2026-12-03",
+    "time": "20:00",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/30241788/gauri-b-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-ef42420f7607350b76ceddad",
+    "artist": "Fat, Evil Children",
+    "date": "2026-12-03",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/61233706",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-858a3f6c8600f564314d12a5",
+    "artist": "Dweezil Zappa DZ20: Like Father, Like Son",
+    "date": "2026-12-03",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/47430112/dweezil-zappa-dz20like-fatherlike-son-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-521c581ac5cde1b34e8da6b7",
+    "artist": "Yule Benefit Tour 2026",
+    "date": "2026-12-04",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/278582-yule-benefit-tour-2026/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-1348982b4158abc575e6247e",
+    "artist": "Buck Meek",
+    "date": "2026-12-04",
+    "time": "21:00",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/56106710/buck-meek-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-dd00656dc89c311c24953958",
+    "artist": "HARBOUR",
+    "date": "2026-12-04",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/47408418",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-201a36d11b9ec100d5c5a640",
+    "artist": "SOLD OUT: Amber Autry: Happy Holler Tour (Early Show)",
+    "date": "2026-12-04",
+    "time": "19:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/82008250/sold-outamber-autryhappy-holler-tour-early-show-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-8e376165fd55711428156cc3",
+    "artist": "SOLD OUT: Amber Autry: Happy Holler Tour (Late Show)",
+    "date": "2026-12-04",
+    "time": "21:30",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/50577979/sold-outamber-autryhappy-holler-tour-late-show-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-64bbe8a988551fea0402a407",
+    "artist": "New Constellations: It Comes In Waves Tour",
+    "date": "2026-12-04",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/new-constellations-it-comes-in-waves-tour/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-31a13d666a1566ea447194b5",
+    "artist": "El Vez",
+    "date": "2026-12-05",
+    "time": "21:00",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/41549327/el-vez-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-a971d38c487ce641748b1eac",
+    "artist": "Sanctuary Park Tour: Celebrating 40 Years of The Jayhawks",
+    "date": "2026-12-05",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/58008973/sanctuary-park-tourcelebrating-40-years-of-the-jayhawks-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-cc4ef56db0062fee3a3d45ff",
+    "artist": "feeble little horse – bitknot tour",
+    "date": "2026-12-05",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/feeble-little-horse-bitknot-tour/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-9c070f44a30a6e072c87b16b",
+    "artist": "Crystal Ballroom History & Art Tour",
+    "date": "2026-12-06",
+    "time": "10:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279671-crystal-ballroom-history-art-tour/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-a239a47ad46572c923388206",
+    "artist": "Buffalo Traffic Jam",
+    "date": "2026-12-06",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279126-buffalo-traffic-jam/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-669263c24b7f5fd12fe22315",
+    "artist": "School of Rock Vancouver - Fall 2026 Mid-Season Showcase",
+    "date": "2026-12-06",
+    "time": "11:30",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/39161074/school-of-rock-vancouver-fall-2026-midseason-showcase-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-700e93f8243ddedcde504b49",
+    "artist": "Wishy - Nature's Pill Tour",
+    "date": "2026-12-06",
+    "time": "20:00",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/52582032/wishy-natures-pill-tour-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-90d596c096f6fd2ce18558b6",
+    "artist": "WHY?",
+    "date": "2026-12-06",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/38655516",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-2ac0f9d1244dc0f1e4cdf1f4",
+    "artist": "Choir! Choir! Choir!",
+    "date": "2026-12-06",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/62407948/choirchoirchoir-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-353b2a767f6a48472a08ba4a",
+    "artist": "**MOVED TO ROSELAND THEATER** FROST CHILDREN",
+    "date": "2026-12-06",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/moved-to-roseland-theater-frost-children/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-4886e3b8c9ba05fc603788f4",
+    "artist": "Cannons",
+    "date": "2026-12-07",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279127-cannons/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-81b5db81eed035450fcb0c0e",
+    "artist": "TINY HABITS – The Keepers Tour",
+    "date": "2026-12-07",
+    "time": "19:30",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/tiny-habits-the-keepers-tour/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-9c4857115df0d54ddb4d09d3",
+    "artist": "YAELOKRE",
+    "date": "2026-12-08",
+    "time": "18:30",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/277448-yaelokre/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-5466c28a10a7dc91aa3c23ba",
+    "artist": "Oliver Hazard",
+    "date": "2026-12-08",
+    "time": "20:00",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/90221796/oliver-hazard-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-230ef535b50e5cd80be40a73",
+    "artist": "Alison's Halo",
+    "date": "2026-12-08",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/50221107",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-3f27f9289e60f5157f715b6e",
+    "artist": "Strawberry Guy",
+    "date": "2026-12-08",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/72341210/strawberry-guy-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-65c1256a0326e09125ccb1bd",
+    "artist": "Spike and the Gimme Gimmes",
+    "date": "2026-12-09",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/278878-spike-and-the-gimme-gimmes/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-edf2cccfd65c40c9e84a98b9",
+    "artist": "Local Love Letter #31: Mary Eliza & Pillow Spiders",
+    "date": "2026-12-09",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/47377019/local-love-letter-31mary-eliza-pillow-spiders-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-33b4f5cd03079d8c12d65166",
+    "artist": "Bryan Andrews",
+    "date": "2026-12-09",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/70407603",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-6cada2a37442f5c4d0ae71c0",
+    "artist": "Crystal Ballroom History & Art Tour",
+    "date": "2026-12-10",
+    "time": "10:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279670-crystal-ballroom-history-art-tour/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-8c3def3144c1dae3b487144a",
+    "artist": "Angine De Poitrine",
+    "date": "2026-12-10",
+    "time": "18:30",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/277005-angine-de-poitrine/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-02d3f05bae108c2e357ce820",
+    "artist": "Nori Reed: Nori Is Present LIVE at Mississippi Studios",
+    "date": "2026-12-10",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/95870738/nori-reednori-is-present-live-at-mississippi-studios-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-a007dc3e33923d3980ac4f17",
+    "artist": "The Duke Of Cello",
+    "date": "2026-12-10",
+    "time": "19:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/82870240",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-e684e7c0c032bdf9fa47a362",
+    "artist": "Live Wire with Luke Burbank",
+    "date": "2026-12-10",
+    "time": "19:30",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/32891845/live-wire-with-luke-burbank-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-79ebe6a9b03224c93983fe1b",
+    "artist": "Angine De Poitrine",
+    "date": "2026-12-11",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/276842-angine-de-poitrine/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-e2e5c9b7ee4363f3f74a965a",
+    "artist": "SOLD OUT: Willi Carlisle - The Universal Bubba Tour",
+    "date": "2026-12-11",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/93180478/sold-outwilli-carlisle-the-universal-bubba-tour-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-67ed36f0370987306e763cfd",
+    "artist": "Mason Jennings",
+    "date": "2026-12-11",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/97950899",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-c0ce42ab14539ecd993a0c72",
+    "artist": "DESI BANKS: YOUR FAVORITE COUSIN",
+    "date": "2026-12-11",
+    "time": "19:30",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/69921224/desi-banksyour-favorite-cousin-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-2e69f1cc8fa3c2927182196f",
+    "artist": "OK NOT OK (RADIOHEAD tribute) plays The Bends LIVE!",
+    "date": "2026-12-12",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/32694648/ok-not-ok-radiohead-tributeplays-the-bends-live-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-ffe757ff6d9a8b7e733c2562",
+    "artist": "Robber Robber",
+    "date": "2026-12-12",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/71876197",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-a833165b599c5860aa358f19",
+    "artist": "The Pineapple Thief",
+    "date": "2026-12-12",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/49936209/the-pineapple-thief-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-362f355ce422983d508466bc",
+    "artist": "Young the Giant",
+    "date": "2026-12-13",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279128-young-the-giant/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-94c90772d9f2a9a9a01c6830",
+    "artist": "ML Johnson (Release Show)",
+    "date": "2026-12-13",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/48776452/ml-johnson-release-show-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-6901036fdf48f3bb1f2865ea",
+    "artist": "Ruby Haunt",
+    "date": "2026-12-13",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/42616781",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-010ecba1c113731c0aff20fc",
+    "artist": "Graham Hunt / 9Million",
+    "date": "2026-12-14",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/44720856",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-489f78a28ca2a2ebd976bbbb",
+    "artist": "SOLD OUT: Swervedriver raise at 35",
+    "date": "2026-12-15",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/74993592/sold-outswervedriver-raise-at-35-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-258911ce142d198b7e2eccfa",
+    "artist": "Criminal Presents: Don't Worry with Phoebe Judge",
+    "date": "2026-12-15",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/30185800/criminalpresentsdont-worry-with-phoebe-judge-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-b67a1db7ed6d136755fc02b6",
+    "artist": "almost monday",
+    "date": "2026-12-16",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279129-almost-monday/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-d144b8a58db803f6c83b2a3c",
+    "artist": "45th Parallel Holiday Variety Show II",
+    "date": "2026-12-16",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/66697949/45th-parallel-holiday-variety-show-ii-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-ee4be93203088df14c724998",
+    "artist": "Crystal Ballroom History & Art Tour",
+    "date": "2026-12-17",
+    "time": "10:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279668-crystal-ballroom-history-art-tour/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-c7e019ed3b2ac3469379f932",
+    "artist": "Portland Songwriters Guild: Holiday Hits Vol. 5",
+    "date": "2026-12-17",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/41737560/portland-songwriters-guildholiday-hits-vol5-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-9c3786271f87d72719b36a81",
+    "artist": "Home For The Holidays",
+    "date": "2026-12-17",
+    "time": "19:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/87684712",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-7957d1ab7e0bc6269b3ee117",
+    "artist": "YOB",
+    "date": "2026-12-17",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/50454498/yob-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-50caaee7ec68b835a3a88a93",
+    "artist": "Nasalrod (7-Inch Release)",
+    "date": "2026-12-18",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/82138674/nasalrod-7inch-release-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-56abb6ee4a0582a9ddb9b1ee",
+    "artist": "Mohanad Elshieky: Green Books",
+    "date": "2026-12-18",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/57958333/mohanad-elshiekygreen-books-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-787e36af19ee66c678aa16c2",
+    "artist": "A Holiday Spectacular with Mitch & His Merry Melody Makers",
+    "date": "2026-12-19",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/59949944/a-holiday-spectacular-with-mitch-his-merry-melody-makers-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-bbc16d29820249ba6c422580",
+    "artist": "Grass with Class featuring Band of Comerados",
+    "date": "2026-12-19",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/49320816",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-f274aa35dff0c5c670aeca2e",
+    "artist": "Snow Bar Chorale",
+    "date": "2026-12-19",
+    "time": "19:30",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/57263739/snow-bar-chorale-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-9dba68f77c94b02c37c66687",
+    "artist": "Crystal Ballroom History & Art Tour",
+    "date": "2026-12-20",
+    "time": "10:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279667-crystal-ballroom-history-art-tour/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-8f87e85f2440b38b627029ca",
+    "artist": "The Shivas",
+    "date": "2026-12-20",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/91055154/the-shivas-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-5dbf91bf1759325455935360",
+    "artist": "MAE.SUN 6th Annual Winter Solstice Party",
+    "date": "2026-12-21",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/78436853/maesun-6th-annual-winter-solstice-party-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-bd11f2c717fe16e6ea92d847",
+    "artist": "An Evening with Peter Sagal - Host of Wait Wait Don't Tell me",
+    "date": "2026-12-21",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/58804940/an-evening-with-peter-sagal-host-of-wait-wait-dont-tell-me-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-9459c5814b85fd007d26feee",
+    "artist": "Crystal Ballroom History & Art Tour",
+    "date": "2026-12-24",
+    "time": "10:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279666-crystal-ballroom-history-art-tour/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-557e0215d298eb87b45fd354",
+    "artist": "Holiday Rehab Comedy Show",
+    "date": "2026-12-26",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/70741866/holiday-rehab-comedy-show-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-d9fc6abc0f65c3db1f91fd5a",
+    "artist": "Crystal Ballroom History & Art Tour",
+    "date": "2026-12-27",
+    "time": "10:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279665-crystal-ballroom-history-art-tour/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-f7cca24cc0ebcd6c4b13ab16",
+    "artist": "Crystal Ballroom History & Art Tour",
+    "date": "2026-12-31",
+    "time": "10:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279669-crystal-ballroom-history-art-tour/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-476e9ba089d0f9f8d3ef0804",
+    "artist": "2000s New Year’s Eve Y2K Ball",
+    "date": "2026-12-31",
+    "time": "21:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/278431-2000s-new-years-eve-y2k-ball/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-2d0ab21666fadd2001b9cf2a",
+    "artist": "The Macks",
+    "date": "2026-12-31",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/80232497/the-macks-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-13d65bbe57d0059e1271ab66",
+    "artist": "New Year's Eve with DJ Anjali and The Incredible Kid",
+    "date": "2026-12-31",
+    "time": "21:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/49920507",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-17647c18e3d2280c923764cc",
+    "artist": "The Disco Biscuits NYE",
+    "date": "2026-12-31",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/95972752/the-disco-biscuits-nye-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-d4d09847077856e188a98de0",
+    "artist": "Tezeta Band",
+    "date": "2027-01-01",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/50265931/tezeta-band-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-8b7f9a84477f50666f7f3ba9",
+    "artist": "The Disco Biscuits",
+    "date": "2027-01-01",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/55578509/the-disco-biscuits-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-f537894ed8c958be8a7f85af",
+    "artist": "2nd Annual Dry January Fest",
+    "date": "2027-01-02",
+    "time": "11:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/273672-2nd-annual-dry-january-fest/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-dd1058886e3aba3cf808d25f",
+    "artist": "50 First Jokes",
+    "date": "2027-01-02",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/73176207/50-first-jokes-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-125a95f441d7fecd197cfc8b",
+    "artist": "The Disco Biscuits",
+    "date": "2027-01-02",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/30191515/the-disco-biscuits-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-878fd5a527d70676cb423441",
+    "artist": "Ninajirachi",
+    "date": "2027-01-05",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279011-ninajirachi/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-e82410c937e201de31bc2f4d",
+    "artist": "Join or Die: A Screening and Conversation About Democratic Participation",
+    "date": "2027-01-06",
+    "time": "17:45",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/47460859/join-or-diea-screening-and-conversation-about-democratic-participation-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-a4fe73d5ec6a7b91ad356fd7",
+    "artist": "Jacqueline Hyde (EP Release)",
+    "date": "2027-01-07",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/59417770/jacqueline-hyde-ep-release-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-8daa545063a476ed2eb8906b",
+    "artist": "Battle of the McMenamins Bands",
+    "date": "2027-01-08",
+    "time": "19:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/280282-battle-of-the-mcmenamins-bands/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-4311150fc8cc47d40b291708",
+    "artist": "Family Worship Center & White Lightning Co. (Album Release)",
+    "date": "2027-01-08",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/65563353/family-worship-center-white-lightning-coalbum-release-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-7df1b92f86e58db284fcd0c0",
+    "artist": "Lil' Lilith Fair",
+    "date": "2027-01-09",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/69296420/lillilith-fair-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-50c95984920984485c87cd52",
+    "artist": "Dogs in a Pile",
+    "date": "2027-01-09",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/99668038/dogs-in-a-pile-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-0a37e6f0eb53771804d2fd3d",
+    "artist": "Earlybirds Club – Hip-Hop & R&B Night",
+    "date": "2027-01-09",
+    "time": "18:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/earlybirds-club-hip-hop-rb-night/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-9bcc12fe1398a908bc3bc307",
+    "artist": "Anna von Hausswolff: Iconoclasts Tour",
+    "date": "2027-01-11",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/anna-von-hausswolff-iconoclasts-tour/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-c21985b26aaa66bbf8be9ab8",
+    "artist": "Swirlies",
+    "date": "2027-01-12",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/68494828",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-801b6cd39e889e7b00c89e73",
+    "artist": "Local Love Letter #32: Unspeakable Carnage",
+    "date": "2027-01-13",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/79948629/local-love-letter-32unspeakable-carnage-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-1960f6d9251199666ebd2cf4",
+    "artist": "Ismael Loutfi",
+    "date": "2027-01-14",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/75830664/ismael-loutfi-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-e4ac8ca8b4362ece46547218",
+    "artist": "DJ Meredith Marks",
+    "date": "2027-01-15",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/278967-dj-meredith-marks/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-ef91edfc8eec89fe747df84c",
+    "artist": "The Builders and the Butchers - 20th Anniversary of Debut Album",
+    "date": "2027-01-15",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/32301403/the-builders-and-the-butchers-20th-anniversary-of-debut-album-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-b25a6259a7e4dcbf0be10348",
+    "artist": "Immersion",
+    "date": "2027-01-16",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/43710339/immersion-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-9b5ccb1045a23a1ae820bdd8",
+    "artist": "Garcia Birthday Band",
+    "date": "2027-01-16",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/69058105/garcia-birthday-band-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-eb4db984e7690d95c18b1743",
+    "artist": "The Magic Of 7",
+    "date": "2027-01-19",
+    "time": "19:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/83449465",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-3d330c21815ca7f3fbfd33d5",
+    "artist": "Carmen Christopher",
+    "date": "2027-01-20",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/89316186/carmen-christopher-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-c69fd3a7d948d679f2ee0d12",
+    "artist": "Satsang",
+    "date": "2027-01-21",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/45761095/satsang-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-121679e2d62379e8990f2b63",
+    "artist": "Tara Clerkin Trio",
+    "date": "2027-01-21",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/35763427",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-41974067a30e60f24e44c8d8",
+    "artist": "Taper's Choice",
+    "date": "2027-01-22",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/71666833/tapers-choice-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-392105ae78eddc35c97a67af",
+    "artist": "Angela Autumn",
+    "date": "2027-01-22",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/79070971",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-fadee3faeedb42b41082d890",
+    "artist": "Super Diamond – The Neil Diamond Tribute",
+    "date": "2027-01-23",
+    "time": "18:30",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279034-super-diamond-the-neil-diamond-tribute/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-d07d19f086e924502763cfd3",
+    "artist": "Youth Fountain",
+    "date": "2027-01-23",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/89518340/youth-fountain-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-8841b36a95da4560e3b7904f",
+    "artist": "Pigs on the Wing: Beyond Pompeii",
+    "date": "2027-01-23",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/30492694/pigs-on-the-wingbeyond-pompeii-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-38e017c5b24fac6c5574e1dc",
+    "artist": "Fruition",
+    "date": "2027-01-28",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/278536-fruition/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-a98f7c4ec96838231160c3cd",
+    "artist": "Death Valley Girls",
+    "date": "2027-01-28",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/75518166/death-valley-girls-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-5e7929f7c8e895f88739d4e7",
+    "artist": "Portland’s Folk Festival",
+    "date": "2027-01-29",
+    "time": "18:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/276751-portlands-folk-festival/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-0ff2c058a9be753d67a5ffa5",
+    "artist": "Portland’s Folk Festival",
+    "date": "2027-01-30",
+    "time": "15:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/276749-portlands-folk-festival/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-4d3d0816ad7962c4611bad78",
+    "artist": "Cytrus",
+    "date": "2027-01-30",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/34248095/cytrus-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-8cfbe750d88c001dd3b6a884",
+    "artist": "Bad Suns - Disappear Here: A Ten Year Celebration",
+    "date": "2027-01-30",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/33087462/bad-suns-disappear-herea-ten-year-celebration-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-9a5f97e05a67a6b4c2c8b1f8",
+    "artist": "Lotus",
+    "date": "2027-01-31",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/30403873/lotus-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-1c2fff19ac46cb72bd62f27c",
+    "artist": "Elephant Stone",
+    "date": "2027-02-03",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/92795681/elephant-stone-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-b02a9a100953e3d455fb7648",
+    "artist": "galdive & rum.gold - A Friend Tour",
+    "date": "2027-02-03",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/49234574",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-efa6fee739ded08319fd20bd",
+    "artist": "Celebrating the 100th Birthday of Stan Getz and Antonio Carlos Jobim",
+    "date": "2027-02-03",
+    "time": "19:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/54210181/celebrating-the-100th-birthday-of-stan-getz-and-antonio-carlos-jobim-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-5340d137e563c62eee537761",
+    "artist": "Rare Americans – Welcome to Crooked City Tour",
+    "date": "2027-02-03",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/rare-americans-welcome-to-crooked-city-tour/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-08750f83a82554d4ddb252a5",
+    "artist": "Pratt & Moody - 2027 Tour",
+    "date": "2027-02-04",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/68264366/pratt-moody-2027-tour-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-12da0ee5dd92a8a1f0c080de",
+    "artist": "Brandy Clark: Take Flight World Tour",
+    "date": "2027-02-04",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/88534334/brandy-clarktake-flight-world-tour-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-038d19b02eedb5975636a82b",
+    "artist": "Peter Bradley Adams",
+    "date": "2027-02-05",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/61929359/peter-bradley-adams-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-727480602822544af596d18b",
+    "artist": "Michael Shannon & Jason Narducy and Friends play R.E.M.’s Document",
+    "date": "2027-02-05",
+    "time": "19:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/81350965/michael-shannon-jason-narducy-and-friends-play-rems-document-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-ff2bc5e21991deee3bbfd137",
+    "artist": "Whitey Morgan and the 78s",
+    "date": "2027-02-05",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/whitey-morgan-and-the-78s-2/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-ac2e3d58a672a1bd0c17945b",
+    "artist": "4th Annual Celebration of the 1968 Grateful Dead Concerts",
+    "date": "2027-02-06",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279578-4th-annual-celebration-of-the-1968-grateful-dead-concerts/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-9f5cec58e12a5a007a649236",
+    "artist": "The Sheepdogs - Out All Night Tour",
+    "date": "2027-02-06",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/73766197/the-sheepdogs-out-all-night-tour-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-f9f132bf5870cb871c12dd82",
+    "artist": "Michael Shannon & Jason Narducy and Friends play R.E.M.’s Document",
+    "date": "2027-02-06",
+    "time": "19:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/56319253/michael-shannon-jason-narducy-and-friends-play-rems-document-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-66921ed5e5dd5898364e3e52",
+    "artist": "Wolves In The Throne Room",
+    "date": "2027-02-09",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/wolves-in-the-throne-room/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-40118ea4f9cd6c8af19b0e6c",
+    "artist": "Brainstory",
+    "date": "2027-02-10",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/75180596/brainstory-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-f47c6a2e2af316e19bc815bd",
+    "artist": "Richard Thompson & Band",
+    "date": "2027-02-10",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/47815560/richard-thompson-band-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-0636e88801cc6e0b3b286e07",
+    "artist": "Aaron Chen",
+    "date": "2027-02-12",
+    "time": "19:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/63983917/aaron-chen-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-42185bb2ce402706788d2369",
+    "artist": "2000s Cupid’s Ball",
+    "date": "2027-02-13",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279805-2000s-cupids-ball/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-35dde52479e233c73bfd8152",
+    "artist": "Frankie Quiñones - Good Vibes Only Tour",
+    "date": "2027-02-13",
+    "time": "19:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/47279703/frankie-qui%C3%B1ones-good-vibes-only-tour-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-09f3946c326f99f0dce6328a",
+    "artist": "Aubory Bugg",
+    "date": "2027-02-15",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/80560698",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-f8817988a5a45f48c9c2beb4",
+    "artist": "Andrea Gibson’s Love Letter from the Afterlife",
+    "date": "2027-02-15",
+    "time": "19:30",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/41119896/andrea-gibsons-love-letter-from-the-afterlife-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-0385911b8181c477dff988d3",
+    "artist": "La Roux",
+    "date": "2027-02-16",
+    "time": "19:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/278647-la-roux/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-1aef91a5eb140b1b4fd9e7aa",
+    "artist": "Bold Voices: Alberga & Beethoven",
+    "date": "2027-02-16",
+    "time": "19:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/72924617",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-9e4a08ed86d6a19ba69d3081",
+    "artist": "Andrea Gibson’s Love Letter from the Afterlife",
+    "date": "2027-02-16",
+    "time": "19:30",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/87407069/andrea-gibsons-love-letter-from-the-afterlife-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-b34d6f4962842dcd18584367",
+    "artist": "Kendall Lujan (Album Release)",
+    "date": "2027-02-18",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/87872087/kendall-lujan-album-release-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-01732670a759892b7ef9a02a",
+    "artist": "Trampled by Turtles",
+    "date": "2027-02-19",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279149-trampled-by-turtles/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-6696198d78c520b701fb764a",
+    "artist": "Eddie 9V",
+    "date": "2027-02-19",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/72420045/eddie-9v-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-1a9946dcab2d83c829b8fc3b",
+    "artist": "THE BOUNCING SOULS 'Born To Be Tour' with The Suicide Machines",
+    "date": "2027-02-19",
+    "time": "19:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/65714859/the-bouncing-souls-born-to-be-tourwith-the-suicide-machines-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-99e24408359849e58a4ffa9c",
+    "artist": "THE MOVEMENT TOUR: WINTER 2027",
+    "date": "2027-02-19",
+    "time": "19:30",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/the-movement-tour-winter-2027/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-8a7b1dabb0f6eae241b98343",
+    "artist": "Ryan Conner",
+    "date": "2027-02-20",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/47998328/ryan-conner-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-1cadb49875767a6a8a82f80f",
+    "artist": "CHARLIE BERENS: THE LOST AND FOUND TOUR",
+    "date": "2027-02-20",
+    "time": "19:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/83277371/charlie-berensthe-lost-and-found-tour-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-cb100cfe7b48dcc967e175f3",
+    "artist": "@",
+    "date": "2027-02-21",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/59168154",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-f1b1ac067cbbfc1a95916840",
+    "artist": "Sylvan Esso",
+    "date": "2027-02-22",
+    "time": "20:30",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/277205-sylvan-esso/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-fa064f3ed327b6735e57ce32",
+    "artist": "Sylvan Esso",
+    "date": "2027-02-23",
+    "time": "20:30",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/277206-sylvan-esso/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-e0758e4fac64e19fcbbcbce2",
+    "artist": "Powerplant",
+    "date": "2027-02-23",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/49245439",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-cf527a7ce2a6cfc8337e454f",
+    "artist": "Dirtwire",
+    "date": "2027-02-25",
+    "time": "20:30",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/280198-dirtwire/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-03e9e3c5b44e9bb8bdb96e2a",
+    "artist": "The Mavericks & Friends",
+    "date": "2027-02-25",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/95327385/the-mavericks-friends-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-3a00db469baa576c9d7f31b6",
+    "artist": "Sparklmami",
+    "date": "2027-02-26",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/64371383/sparklmami-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-08a21515bbe622c8c4c440e9",
+    "artist": "HOT FREAKS - SOFT BODY TOUR",
+    "date": "2027-02-26",
+    "time": "20:30",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/79230493",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-d07d95915c034de1d215c78c",
+    "artist": "Syd & Olivia Talk Sh*t",
+    "date": "2027-02-27",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/92834953/syd-olivia-talk-sht-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-c0af0f1bcb9adcede9588a9c",
+    "artist": "VALLEY – Do You Need to Be Entertained Tour",
+    "date": "2027-02-27",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/valley-do-you-need-to-be-entertained-tour/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-ccfebd94ba8e3553f2c75537",
+    "artist": "Jack Kays – Jack Kays And His Band",
+    "date": "2027-02-28",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/jack-kays-jack-kays-and-his-band/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-1206dc51b0322b55bb6de380",
+    "artist": "Tommy Lefroy",
+    "date": "2027-03-01",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/59594240/tommy-lefroy-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-780dbcf64234ffe8e417ec41",
+    "artist": "Sam Burchfield",
+    "date": "2027-03-01",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/43913540",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-c6e17b74d4a49e9cf1f86a5c",
+    "artist": "Claud and the Live Music",
+    "date": "2027-03-02",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/47231395",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-e57524b6434357e3dda069f6",
+    "artist": "CAROLINE ROSE",
+    "date": "2027-03-02",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/caroline-rose-2/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-7ac5b640d339e36526a508f1",
+    "artist": "Bonny Doon",
+    "date": "2027-03-03",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/84410515/bonny-doon-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-5b2ebe83aa387d6be8bb32d0",
+    "artist": "Alan Walker",
+    "date": "2027-03-04",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/278693-alan-walker/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-c5fedab040b2e77f10008504",
+    "artist": "Lilly Hiatt & Trever M. Keith",
+    "date": "2027-03-04",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/92461949/lilly-hiatt-trever-mkeith-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-8595ed65c96adce7d872b1cd",
+    "artist": "Brooke Alexx - Dream Girl Tour",
+    "date": "2027-03-04",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/65853898",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-6f38fa3587c25e30ff9754fa",
+    "artist": "Blondshell",
+    "date": "2027-03-05",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/276943-blondshell/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-dc2f08b65a1521da30311924",
+    "artist": "May Erlewine with Packy Lundholm",
+    "date": "2027-03-05",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/42433332/may-erlewine-with-packy-lundholm-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-9dd6f03c99b0e4e8e459b28b",
+    "artist": "Darlingside",
+    "date": "2027-03-05",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/99773010",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-9fda45a35df61ad9a518f9ff",
+    "artist": "TopHouse",
+    "date": "2027-03-05",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/56630167/tophouse-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-3f1498f629dce26c070c4692",
+    "artist": "Bobby Rush: An Intimate Night of Stories & Songs",
+    "date": "2027-03-06",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/86110925/bobby-rushan-intimate-night-of-stories-songs-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-ce6394175c7f04b6a48f8f32",
+    "artist": "SOLD OUT: ZOLTAN KASZAS: COMEDY SPECIAL TAPING",
+    "date": "2027-03-06",
+    "time": "18:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/41962756/sold-outzoltan-kaszascomedy-special-taping-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-f270db7134e5f1823e9cc8b2",
+    "artist": "ZOLTAN KASZAS: COMEDY SPECIAL TAPING (LATE SHOW)",
+    "date": "2027-03-06",
+    "time": "20:45",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/83102577/zoltan-kaszascomedy-special-taping-late-show-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-15d1d321e0ca4a8532078c06",
+    "artist": "strongboi headline tour 2027",
+    "date": "2027-03-06",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/strongboi-headline-tour-2027/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-74cc0e58aa79d77490923d7a",
+    "artist": "SOLD OUT: CHVRCHES - LIVE 2027",
+    "date": "2027-03-07",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/74972995/sold-outchvrches-live-2027-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-c49cfe444a4243874245cdac",
+    "artist": "SOLD OUT: CHVRCHES - LIVE 2027",
+    "date": "2027-03-08",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/71714795/sold-outchvrches-live-2027-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-802af03e214eb815a511da5d",
+    "artist": "Danielle Ponder - Everything Has Changed: The Tour",
+    "date": "2027-03-09",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/52316729/danielle-ponder-everything-has-changedthe-tour-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-821e92d1089f8679b32b850a",
+    "artist": "Cursive - Happy Hollow 20th Anniversary",
+    "date": "2027-03-09",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/94603946",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-00119cd4c53341539cede372",
+    "artist": "Preservation Hall Jazz Band",
+    "date": "2027-03-09",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/36472671/preservation-hall-jazz-band-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-90ca8b0d96cecf0c9ca698c6",
+    "artist": "Braxton Keith",
+    "date": "2027-03-10",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279010-braxton-keith/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-042a5b71f3be751bb19a473a",
+    "artist": "Rayland Baxter: The True Violet Tour",
+    "date": "2027-03-10",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/68450613/rayland-baxterthe-true-violet-tour-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-9272b6d46bea9c7afcbda060",
+    "artist": "The Body & Cel Genesis",
+    "date": "2027-03-11",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/59855681/the-body-cel-genesis-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-4095546acac9f588e3b141ce",
+    "artist": "Oteil & Friends featuring Steve Kimock, Jason Crosby, Lamar Williams Jr., Johnny Kimock, & Tom Guarna",
+    "date": "2027-03-11",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/75262409/oteil-friends-featuring-steve-kimockjason-crosbylamar-williams-jrjohnny-kimocktom-guarna-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-48fb88d7502667baece64e03",
+    "artist": "Christian Kuria: EAST TOUR",
+    "date": "2027-03-12",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/89304668",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-e5771ae79a8b7978914b0222",
+    "artist": "Stanley Clarke & Hiromi featuring PUBLIQuartet - A Celebration of the Music of Chick Corea & Beyond",
+    "date": "2027-03-12",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/84263486/stanley-clarke-hiromi-featuring-publiquartet-a-celebration-of-the-music-of-chick-corea-beyond-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-69a86ffdbb22c602a704b332",
+    "artist": "Noah Rinker",
+    "date": "2027-03-12",
+    "time": "19:30",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/noah-rinker/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-e3b31fc7978b9e95201757b2",
+    "artist": "Grateful Shred",
+    "date": "2027-03-13",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/39021092/grateful-shred-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-fabc2b1a970a7fe49ce1f96d",
+    "artist": "Chiodos",
+    "date": "2027-03-14",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/280191-chiodos/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-90251a0463cdb05632f0bbbe",
+    "artist": "Grateful Shred",
+    "date": "2027-03-14",
+    "time": "19:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/54402409/grateful-shred-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-a28682b8f6a23ceaf2222184",
+    "artist": "MOVED TO REVOLUTION HALL: Ruby Waters - Suppre$$ions North America Tour",
+    "date": "2027-03-15",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/81374758/moved-to-revolution-hallruby-waters-suppreions-north-america-tour-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-338f26a83db995adc5fb5ce6",
+    "artist": "Ruby Waters - Suppre$$ions North America Tour",
+    "date": "2027-03-15",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/64155713/ruby-waters-suppreions-north-america-tour-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-cb656a6c5f33f71b45d20cc2",
+    "artist": "Beach Bunny: Out of Office Tour",
+    "date": "2027-03-16",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/46117650/beach-bunnyout-of-office-tour-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-20772ff77694eea505d2f195",
+    "artist": "The Music Of Tom Verlaine",
+    "date": "2027-03-17",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/48920297/the-music-of-tom-verlaine-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-224cf87ae46b3599f1e5c6fa",
+    "artist": "Luke Kidgell",
+    "date": "2027-03-17",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/42812493",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-cd5db3ad14ac983d3f76f86b",
+    "artist": "Teenage Fanclub",
+    "date": "2027-03-17",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/35673579/teenage-fanclub-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-17359aff4bc8382250f15ec4",
+    "artist": "sophia stel: the greatest tour of all time",
+    "date": "2027-03-18",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/sophia-stel-the-greatest-tour-of-all-time/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-1eb204407009ef5bfaba68e1",
+    "artist": "Noga Erez",
+    "date": "2027-03-19",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/280097-noga-erez/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-39972c14db7b1c4c8eb783f6",
+    "artist": "The Mother Hips",
+    "date": "2027-03-19",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/54584960/the-mother-hips-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-51fcd190a53786d8b2b83530",
+    "artist": "BERTHA: Grateful Drag - The World's First All-Drag Grateful Dead Tribute Band",
+    "date": "2027-03-19",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/47807179/berthagrateful-drag-the-worlds-first-alldrag-grateful-dead-tribute-band-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-347ea220d847d3f1025162b2",
+    "artist": "All My Friends Tour with Pivot Gang",
+    "date": "2027-03-21",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/93050804/all-my-friends-tour-with-pivot-gang-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-0cf4c1c45bf8dc54e25efa6d",
+    "artist": "VNV Nation - An Evening With",
+    "date": "2027-03-23",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/87472996/vnv-nation-an-evening-with-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-7f904d97cf3a5d77d692c59b",
+    "artist": "Islandman",
+    "date": "2027-03-24",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/54820713/islandman-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-a6af6fd8eedc7a8a65eacb9e",
+    "artist": "Vacations - Pursuit of Anything Tour",
+    "date": "2027-03-25",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/56802832/vacations-pursuit-of-anything-tour-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-5cea02a5a5b18a58e96da317",
+    "artist": "Grace Potter & The Trespassers",
+    "date": "2027-03-26",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/280197-grace-potter-the-trespassers/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-9664692007a284c7bf10a78e",
+    "artist": "Charlotte Adigéry & Bolis Pupul - Mainland Madinina",
+    "date": "2027-03-26",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/44819323",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-f2d9f47b4b6882cba4483a1e",
+    "artist": "Daniel Donato’s Cosmic Country",
+    "date": "2027-03-26",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/99582487/daniel-donatos-cosmic-country-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-c00a9c6381905adf48384a4e",
+    "artist": "Fenne Lily",
+    "date": "2027-03-27",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/30921138/fenne-lily-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-c662bfc83e940f42841322a7",
+    "artist": "Daniel Donato’s Cosmic Country",
+    "date": "2027-03-27",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/91156282/daniel-donatos-cosmic-country-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-a6bff810ede3c3b6ceb695a9",
+    "artist": "Games We Play – \"I Wish I Never Quit\" US Tour",
+    "date": "2027-03-28",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/62479117",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-bf94b79bdd421096350826af",
+    "artist": "Dan and Peggy Reeder",
+    "date": "2027-03-28",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/45931401/dan-and-peggy-reeder-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-a738d32e5cbcf02aab9329fc",
+    "artist": "Rikas North America 2027",
+    "date": "2027-03-29",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/46754874",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-e00a3537b4a0f427318d9985",
+    "artist": "Death From Above 1979 - Private Lives Tour",
+    "date": "2027-03-29",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/85727898/death-from-above-1979-private-lives-tour-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-f4d34322f33178a98ee7ccc4",
+    "artist": "The Mary Wallopers",
+    "date": "2027-03-30",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/278187-the-mary-wallopers/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-c3f6a75f1ec3413e53d0930a",
+    "artist": "Hudson Freeman - This Tour Is Doomed",
+    "date": "2027-03-30",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/58604952/hudson-freeman-this-tour-is-doomed-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-dff86d2f6a9d8bb7b6a8e406",
+    "artist": "Wild Pink",
+    "date": "2027-03-30",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/55888947",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-1377aa4c74b0513e0aabd3f8",
+    "artist": "Worldpeace DMT",
+    "date": "2027-03-31",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/92282133",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-1674200a914a9c68b448fed7",
+    "artist": "Nothing But Thieves",
+    "date": "2027-04-01",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/277040-nothing-but-thieves/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-68ef8f99480892a94a4f1972",
+    "artist": "Oscar Lindsey - Sunshine Tour",
+    "date": "2027-04-01",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/69780875",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-fbb97d3207089f4805a62658",
+    "artist": "The Elovaters",
+    "date": "2027-04-02",
+    "time": "19:30",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279180-the-elovaters/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-47426b6e3088ab7365a32951",
+    "artist": "Radio Free Alice",
+    "date": "2027-04-02",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/57215424/radio-free-alice-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-48943bd9f1bce56fcce63e5a",
+    "artist": "Midrift",
+    "date": "2027-04-02",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/33938580",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-033068b131fba0e1217a2218",
+    "artist": "Michelle Wolf: Best Job in the World",
+    "date": "2027-04-03",
+    "time": "19:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/68185498/michellewolfbest-job-in-the-world-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-ae8354f8331b3413b154478b",
+    "artist": "Gang of Youths",
+    "date": "2027-04-03",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/gang-of-youths/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-b1afbcee06559011d6492032",
+    "artist": "Boy Throb’s Real Tour",
+    "date": "2027-04-05",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/boy-throbs-real-tour/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-800e98032455bc7eb09ef868",
+    "artist": "THE DAMNED – FINAL DAMNATION 50",
+    "date": "2027-04-06",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/48642829/the-damned-final-damnation-50-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-22a78be806205aae26f078e2",
+    "artist": "Sleaford Mods",
+    "date": "2027-04-06",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/sleaford-mods-2/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-8f7bb1164f883e7f83c037bb",
+    "artist": "Love Letter",
+    "date": "2027-04-07",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/45876528",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-debc2cd579a03adbc58701df",
+    "artist": "THE DAMNED – FINAL DAMNATION 50",
+    "date": "2027-04-07",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/39040360/the-damned-final-damnation-50-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-3db966ab19c11f29ef5b78ba",
+    "artist": "Sadurn",
+    "date": "2027-04-08",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/43186261/sadurn-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-03e7c17bb0197d20a56ff83d",
+    "artist": "Valencia Grace",
+    "date": "2027-04-08",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/83463584",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-4f8c18bc61dc49d47c7d32d8",
+    "artist": "Jersey",
+    "date": "2027-04-08",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/jersey/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-00344c5e19a2060ccac58466",
+    "artist": "moe.",
+    "date": "2027-04-09",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/91569349/moe-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-5e19bcdc069660f08991e7d7",
+    "artist": "Gus Dapperton: 4 Dear Life Tour",
+    "date": "2027-04-10",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/gus-dapperton-4-dear-life-tour/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-414e3245ddec7fbe09808a92",
+    "artist": "DESTROY BOYS",
+    "date": "2027-04-12",
+    "time": "19:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/destroy-boys-2/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-7edae336414a8a1063e3abb1",
+    "artist": "Peel Dream Magazine - North America 2027",
+    "date": "2027-04-15",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/58446890",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-77787969efa14107cf4d7ae4",
+    "artist": "Lambrini Girls",
+    "date": "2027-04-16",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/278493-lambrini-girls/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-ae09d60670af19c45dae0d06",
+    "artist": "Clap Your Hands Say Yeah",
+    "date": "2027-04-16",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/92934349/clap-your-hands-say-yeah-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-c11aa51ae4db619a588137b3",
+    "artist": "Slow Crush",
+    "date": "2027-04-16",
+    "time": "19:30",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/slow-crush/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-18fef41f0e6ced589a5878a3",
+    "artist": "KOO KOO",
+    "date": "2027-04-17",
+    "time": "13:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/71453109",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-1f801a92be4cbdb18832316b",
+    "artist": "brakence",
+    "date": "2027-04-18",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279466-brakence/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-69ddbc7d0d2e810c3aaa09fd",
+    "artist": "ROYAL BLOOD: North America 2027",
+    "date": "2027-04-18",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/47075451/royal-bloodnorth-america-2027-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-641d7ba7708491acaefc86be",
+    "artist": "FKJ",
+    "date": "2027-04-20",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/277132-fkj/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-666aba0ee9bb626249c5bf39",
+    "artist": "Coming Together",
+    "date": "2027-04-20",
+    "time": "19:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/87453810",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-56dc65f788377de1d162c07f",
+    "artist": "TWRP: The ACTION SEQUENCE TOUR",
+    "date": "2027-04-21",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/84004236/twrpthe-action-sequence-tour-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-dd057f9fa37e81ba8728fb28",
+    "artist": "*Rescheduled & Moved to Hawthorne Theatre* SiM – HOOMAN WORLD TOUR",
+    "date": "2027-04-21",
+    "time": "19:30",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/rescheduled-moved-to-hawthorne-theatre-sim-hooman-world-tour/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-8718835d3974d05bca294092",
+    "artist": "An Evening with Matt Nathanson - To The Point Solo Tour 2027 (Night 1)",
+    "date": "2027-04-24",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/95096640",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-74a6fda2d10c15c6e705e711",
+    "artist": "The F16s - All Dogs Go To Heaven North America ‘27",
+    "date": "2027-04-25",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/69828668/the-f16s-all-dogs-go-to-heaven-north-america-27-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-2a89b86f6f9e53fa5b9b030f",
+    "artist": "An Evening with Matt Nathanson - To The Point Solo Tour 2027 (Night 2)",
+    "date": "2027-04-25",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/41106184",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-547603b0762d73c6bb6f7c5a",
+    "artist": "GETDOWN SERVICES",
+    "date": "2027-04-25",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/getdown-services/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-9929e62bf7915efc080068f2",
+    "artist": "An Evening with Matt Nathanson - To The Point Solo Tour 2027 (Night 3)",
+    "date": "2027-04-26",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/45683875",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-cfe7bf1577f8bfe63eb1e770",
+    "artist": "The Interrupters",
+    "date": "2027-04-27",
+    "time": "19:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/278583-the-interrupters/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-7718bbafbc6768e55372d598",
+    "artist": "Gurriers",
+    "date": "2027-04-28",
+    "time": "19:30",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/45287656",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-1cbb35dec7c195ab3b24d06c",
+    "artist": "FRENCH 79 - CLOSE TO THE GIANTS",
+    "date": "2027-05-02",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/45139740/french-79-close-to-the-giants-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-710e1fe811d415d5a1750434",
+    "artist": "Ricky Montgomery: The Monty Tour",
+    "date": "2027-05-03",
+    "time": "20:30",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279373-ricky-montgomery-the-monty-tour/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-94dcf039458b2b86161842da",
+    "artist": "The Chameleons",
+    "date": "2027-05-04",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/48850758/the-chameleons-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-4b8953150caef0444498ae76",
+    "artist": "An Alleged Evening with Conor Oberst",
+    "date": "2027-05-06",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/37002337/an-alleged-evening-with-conor-oberst-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-b7c2ba1e4f666366edd89d53",
+    "artist": "Laura Gibson with full band",
+    "date": "2027-05-08",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/54814591/laura-gibson-with-full-band-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-17e3caa2e6b673738920bd8a",
+    "artist": "Saint Levant",
+    "date": "2027-05-09",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/277966-saint-levant/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-1a39bdd083e1a5d6a27e74ca",
+    "artist": "Racing Mount Pleasant",
+    "date": "2027-05-10",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/racing-mount-pleasant/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-14eafdc7e622772a0c17cdbc",
+    "artist": "Hotel Mira",
+    "date": "2027-05-11",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/49730994/hotel-mira-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-255f68a1964ec1db789ef560",
+    "artist": "DIIV - ZIRP! The World",
+    "date": "2027-05-12",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/38790353/diiv-zirpthe-world-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-62027dc68eb0cb14228b1cc4",
+    "artist": "Too Many Zooz: Audio Lipstick Tour",
+    "date": "2027-05-13",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/50596559/too-many-zoozaudio-lipstick-tour-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-07132f62abfcc72d32d94117",
+    "artist": "Tori Kelly",
+    "date": "2027-05-14",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/280220-tori-kelly/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-a873a70b605751ea7e60ad49",
+    "artist": "Midnight Generation - Rooted Tour 2027",
+    "date": "2027-05-14",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/84156917/midnight-generation-rooted-tour-2027-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-f60f8833802fcec5d40e8177",
+    "artist": "LEO MIDDEA – Notícias de Puglia Tour",
+    "date": "2027-05-14",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/leo-middea-not%c3%adcias-de-puglia-tour/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-479b82c6aa91a852ece5e6d2",
+    "artist": "Bored Teachers: “Is It Friday Yet?!” Comedy Tour",
+    "date": "2027-05-15",
+    "time": "19:30",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/92927751/bored-teachersis-it-friday-yetcomedy-tour-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-8fe71a66bb9aa2a41b1a6164",
+    "artist": "Enjambre",
+    "date": "2027-05-16",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279530-enjambre/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-9217d8ce0a678bad9b22d615",
+    "artist": "Jealousy To Collaboration",
+    "date": "2027-05-17",
+    "time": "19:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/55187444",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-6cb12a76594b44791ac0c8a5",
+    "artist": "Whitney: Light Upon The Lake (10th Anniversary Tour) w/ Tyler Ballgame",
+    "date": "2027-05-18",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/77941948/whitneylight-upon-the-lake-10th-anniversary-tourwtyler-ballgame-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-b114636c174f9323168df47c",
+    "artist": "Madra Salach",
+    "date": "2027-05-19",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/56194896/madra-salach-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-6f396c813baf85067000b952",
+    "artist": "Dirty Projectors (Solo)",
+    "date": "2027-05-20",
+    "time": "20:00",
+    "venueId": "polaris-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/84434265",
+    "source": "polaris-hall"
+  },
+  {
+    "id": "auto-a5eabe5cadbbf14f6023a5c8",
+    "artist": "Haute & Freddy",
+    "date": "2027-05-21",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/280043-haute-freddy/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-435239baf2376486571aa7ee",
+    "artist": "Angus & Julia Stone - Karaoke Bar World Tour",
+    "date": "2027-05-27",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/76976454/angus-julia-stone-karaoke-bar-world-tour-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-1fbb0faf0962f321a75630d1",
+    "artist": "Hazlett",
+    "date": "2027-05-28",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/hazlett/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-10d8c30b2e7422d4ff7c7b01",
+    "artist": "An evening with They Might Be Giants",
+    "date": "2027-06-04",
+    "time": "20:30",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279496-an-evening-with-they-might-be-giants/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-1a85ef37b0a92a35d1dd1692",
+    "artist": "An evening with They Might Be Giants",
+    "date": "2027-06-05",
+    "time": "20:30",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279493-an-evening-with-they-might-be-giants/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-ca5d159b954fee9c09a7e732",
+    "artist": "An evening with They Might Be Giants",
+    "date": "2027-06-06",
+    "time": "20:30",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/279495-an-evening-with-they-might-be-giants/",
+    "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-30a7429ea8caccd279105e12",
+    "artist": "The Airborne Toxic Event - The Way Home 20 Year Anniversary Tour",
+    "date": "2027-06-11",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/80964016/the-airborne-toxic-event-the-way-home-20-year-anniversary-tour-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-82ee318f6edfdbeb17f341ac",
+    "artist": "NSQK PRESENTS: MOSCA",
+    "date": "2027-06-11",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/nsqk-presents-mosca/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-10ada169b93efb7d76a9a1ab",
+    "artist": "Xana – Where Else Would I Go?",
+    "date": "2027-06-18",
+    "time": "20:00",
+    "venueId": "wonder-ballroom",
+    "ticketUrl": "https://wonderballroom.com/event/xana-where-else-would-i-go/wonder-ballroom/portland-oregon/",
+    "source": "wonder-ballroom"
+  },
+  {
+    "id": "auto-f3aac5d61a0648bfb401a119",
+    "artist": "Vlad Holiday",
+    "date": "2027-06-19",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/38357185/vlad-holiday-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-86375e5b0e286ab014db71c5",
+    "artist": "OSEES",
+    "date": "2027-09-02",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/34434662/osees-portland-revolution-hall",
+    "source": "revolution-hall"
+  },
+  {
+    "id": "auto-57e6f04bf71df74e605df01d",
+    "artist": "Welcome to Night Vale: Attack of the Space People",
+    "date": "2027-09-22",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/32713252/welcome-to-night-valeattack-of-the-space-people-portland-revolution-hall",
+    "source": "revolution-hall"
+  }
+]
