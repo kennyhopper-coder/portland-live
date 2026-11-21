@@ -20,6 +20,7 @@ SITES = {
     "revolution-hall": "https://www.revolutionhall.com/",
     "crystal-ballroom": "https://www.crystalballroompdx.com/wp-json/tribe/events/v1/events?per_page=50",
     "synth-library-portland": "https://www.synthlibraryportland.org/events",
+    "age-of-reflections": "https://ageofreflections.com/Calendar",
     "wonder-ballroom": "https://wonderballroom.com/events/",
 }
 
@@ -43,6 +44,35 @@ def show_time(raw):
     return parse(match[1]).strftime("%H:%M") if match else ""
 
 
+def reflection_rows(doc, url):
+    cards = doc.xpath('//div[@grid-col][h2 and .//a[@href]]')
+    if not cards:
+        raise ValueError("Unrecognized Reflections calendar")
+    for card in cards:
+        title = value(card, './h2')
+        for link in card.xpath('.//a[@href]'):
+            if link.text_content().strip().upper() != "PORTLAND":
+                continue
+            # Each city link introduces its own date, room and optional support.
+            details = []
+            for node in link.itersiblings():
+                if node.tail:
+                    details.append(node.tail)
+            if link.tail:
+                details.insert(0, link.tail)
+            city = link.getparent() if link.getparent().tag == "b" else link
+            if city.tail:
+                details.append(city.tail)
+            for node in city.itersiblings():
+                if node.tag == "a" or node.xpath('.//a'):
+                    break
+                details.extend((node.text_content(), node.tail or ""))
+            fields = [field.strip() for field in details if field.strip()]
+            date = parse(fields[0]).date()
+            summary = " ".join(fields[2:]) if len(fields) > 2 else ""
+            yield title, date, "", urljoin(url, link.get("href")), fields[1], summary
+
+
 def rows(venue, today):
     url = SITES[venue]
     visited = set()
@@ -61,7 +91,9 @@ def rows(venue, today):
             url = page.get("next_rest_url")
             continue
         doc = html.fromstring(json.loads(raw) if raw.lstrip().startswith(chr(34)) else raw)
-        if venue == "synth-library-portland":
+        if venue == "age-of-reflections":
+            yield from reflection_rows(doc, SITES[venue])
+        elif venue == "synth-library-portland":
             cards = nodes(doc, "eventlist-event")
             if not cards:
                 raise ValueError("Unrecognized Synth Library calendar")
@@ -74,8 +106,14 @@ def rows(venue, today):
                 if start.tzinfo:
                     start = start.astimezone(PORTLAND)
                 location = params.get("location", [""])[0]
+                if location and not re.search(r"\bPortland\b", location, re.I):
+                    continue
+                paragraphs = [" ".join(p.text_content().split()) for p in card.xpath(".//p")]
+                summary = next((p for p in paragraphs if len(p) >= 40), "")
+                if len(summary) > 220:
+                    summary = summary[:217].rsplit(" ", 1)[0] + "…"
                 yield (link.text_content(), start.date(), start.strftime("%H:%M") if "T" in stamp else "",
-                       urljoin(SITES[venue], link.get("href")), location)
+                       urljoin(SITES[venue], link.get("href")), location, summary)
         elif venue == "wonder-ballroom":
             cards = nodes(doc, "eventWrapper")
             signature = tuple(value(card,'.//a[@id="eventTitle"]/@href') for card in cards)
@@ -142,7 +180,9 @@ def collect(venue, today):
             result[uid] = dict(id=uid, artist=artist,date=date.isoformat(),time=time,venueId=venue,ticketUrl=url,source=venue)
             if location and location[0]:
                 result[uid]["location"] = location[0]
-    if not result and venue != "synth-library-portland":
+            if len(location) > 1 and location[1]:
+                result[uid]["summary"] = location[1]
+    if not result and venue not in ("synth-library-portland", "age-of-reflections"):
         raise ValueError("No validated upcoming shows")
     return list(result.values())
 

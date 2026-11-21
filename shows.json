@@ -1,5 +1,16 @@
 [
   {
+    "id": "auto-c504f82762cb002dbe4c29da",
+    "artist": "JOHN CARROLL KIRBY",
+    "date": "2026-11-21",
+    "time": "",
+    "venueId": "age-of-reflections",
+    "ticketUrl": "https://ageofreflections.com/261121-John-Carroll-Kirby-in-Portland",
+    "source": "age-of-reflections",
+    "location": "First Congregational UCC",
+    "summary": "with Saloli"
+  },
+  {
     "id": "auto-3da4ed0c13d51c0a530ecfe9",
     "artist": "90’s Dance Flashback",
     "date": "2026-11-21",
@@ -151,7 +162,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/women-and-nonbinary-electronic-music-meetup-nov25",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States",
+    "summary": "All women and non-binary folks are welcome to join us for a monthly event series that encourages learning together, jam together, and connect with other artists in the area. We want to create a welcoming environment…"
   },
   {
     "id": "auto-e82d39d48c9acde52297a064",
@@ -197,7 +209,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/new-volunteer-orientation-november27",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States",
+    "summary": "Have you wanted to get more involved with the library but didn’t know where to start? This in-person onboarding seminar will get you up to speed about the many types of work that helps run and grow our organization.…"
   },
   {
     "id": "auto-f52331ce8ed11f4103aefeed",
@@ -270,7 +283,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/intro-to-drum-synthesis-nov29-djmdd",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States",
+    "summary": "Join us as we dive into crafting percussion from scratch! This workshop will introduce how drum sounds are made, both in principle and in practice."
   },
   {
     "id": "auto-4c53227f22a8fb664c87cc9b",
@@ -307,7 +321,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/women-and-nonbinary-electronic-mubig-challenges-synth-library-portland-keyboard-ensemble-dec1",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States",
+    "summary": "Big Challenges is a new keyboard ensemble for members of Synth Library Portland"
   },
   {
     "id": "auto-99aeb3e47fbffd7aaa17cf9f",
@@ -326,7 +341,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/sdiymeetupndecember2nd",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States",
+    "summary": "Come join us at Synth Library Portland for a Synth DIY Meetup every two weeks.A place for SDIY folks to discuss their current projects, build, debug, and grow community together.While this isn't a place to drop off…"
   },
   {
     "id": "auto-931600ea446e1f200cc41157",
@@ -453,7 +469,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/electronicmusicmeetupforpeopleinrecovery-dec5",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States",
+    "summary": "All people in recovery are welcome to join us at Synth Library Portland for a monthly event series designed to foster connection, creativity, collaboration, and community among local artists."
   },
   {
     "id": "auto-cc4ef56db0062fee3a3d45ff",
@@ -526,7 +543,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/open-channels-december6",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States",
+    "summary": "The mixer channels are open—bring some gear and share your sounds or just come to see what happens. This monthly gathering is for electronic musicians of all experience levels to connect, experiment, and share with…"
   },
   {
     "id": "auto-353b2a767f6a48472a08ba4a",
@@ -599,7 +617,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/abletonrackdesign-dec8",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States",
+    "summary": "Ableton Racks are the powerful DAW tool in focus in this intermediate workshop.We will deep dive into how Ableton's Rack system works by exploring their Instrument Rack, Effect Rack, MIDI Effect Racks, and Drum Rack…"
   },
   {
     "id": "auto-65c1256a0326e09125ccb1bd",
@@ -636,7 +655,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/gay-synth-hang-dec9",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States",
+    "summary": "We're inviting you to join us for a new monthly event series that provides a warm space for gay people to learn, jam, and connect with other artists in the area. Inclusivity is at the heart of our ethos so queers of…"
   },
   {
     "id": "auto-6cada2a37442f5c4d0ae71c0",
@@ -691,7 +711,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/endofyearfundraiser2026",
     "source": "synth-library-portland",
-    "location": "5040 Southeast Milwaukie Avenue, Portland, OR, 97202, United States"
+    "location": "5040 Southeast Milwaukie Avenue, Portland, OR, 97202, United States",
+    "summary": "We’re celebrating 2026 with our biggest event of the year! Join us at Process PDX for this special night featuring live electronic music and visuals, DJ sets curated by SLP members, and a prize raffle."
   },
   {
     "id": "auto-79ebe6a9b03224c93983fe1b",
@@ -764,7 +785,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/intro-to-ableton-live-december-12",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States",
+    "summary": "New to Ableton Live? This workshop covers the basics so you can start making music on your own."
   },
   {
     "id": "auto-362f355ce422983d508466bc",
@@ -801,7 +823,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/emergent-patching-generative-composition-december13",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States",
+    "summary": "In this hands-on workshop, we demonstrate generative composition techniques and breaks down evolving modular patches."
   },
   {
     "id": "auto-010ecba1c113731c0aff20fc",
@@ -838,7 +861,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/big-challenges-synth-library-portland-keyboard-ensemble-dec15",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States",
+    "summary": "Big Challenges is a new keyboard ensemble for members of Synth Library Portland"
   },
   {
     "id": "auto-b67a1db7ed6d136755fc02b6",
@@ -866,7 +890,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/sdiymeetupdecember16",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States",
+    "summary": "Come join us at Synth Library Portland for a Synth DIY Meetup every two weeks.A place for SDIY folks to discuss their current projects, build, debug, and grow community together.While this isn't a place to drop off…"
   },
   {
     "id": "auto-ee4be93203088df14c724998",
@@ -930,7 +955,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/new-member-orientation-november20-6ls3g",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States",
+    "summary": "In this brief in-person gathering you can learn about our organization, how to begin checking out gear from our lending program, and how to access all our member resources including weekly drop-in hours, studio…"
   },
   {
     "id": "auto-787e36af19ee66c678aa16c2",
@@ -967,7 +993,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/build-a-mod2-reprogrammable-sample-drum-module",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States",
+    "summary": "Join us to build HAGIWO's MOD2, a flexible reprogrammable DIY Eurorack Module. This compact 8hp open source module is able to flexibly swap between several premade firmwares including a sample player, individual…"
   },
   {
     "id": "auto-9dba68f77c94b02c37c66687",
@@ -995,7 +1022,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/intro-to-modular-synthesis-december20th",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States",
+    "summary": "Learn the fundamentals of synthesis (focusing on hardware modular) in this beginner workshop, with no prior knowledge necessary. Hands-on instruction puts concepts into practice. Open to all. Great for total…"
   },
   {
     "id": "auto-5dbf91bf1759325455935360",
@@ -1023,7 +1051,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/women-and-nonbinary-electronic-music-meetup-dec23",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States",
+    "summary": "All women and non-binary folks are welcome to join us for a monthly event series that encourages learning together, jam together, and connect with other artists in the area. We want to create a welcoming environment…"
   },
   {
     "id": "auto-9459c5814b85fd007d26feee",
@@ -1213,7 +1242,8 @@
     "venueId": "synth-library-portland",
     "ticketUrl": "https://www.synthlibraryportland.org/events/musictheoryandpianokeyboardskillsforelectronicmusicians-jan9",
     "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States"
+    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States",
+    "summary": "Do you struggle to put chords together, or find melodies that fit comfortably over them? Have you ever backed out of joining in on a jam or improv session because you don’t know your way around a keyboard? Have you…"
   },
   {
     "id": "auto-0a37e6f0eb53771804d2fd3d",
@@ -1871,6 +1901,17 @@
     "venueId": "mississippi-studios",
     "ticketUrl": "https://www.etix.com/ticket/p/84410515/bonny-doon-portland-mississippi-studios",
     "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-c91cf662da81ea51adfd9e3b",
+    "artist": "ROGER ENO",
+    "date": "2027-03-04",
+    "time": "",
+    "venueId": "age-of-reflections",
+    "ticketUrl": "https://link.dice.fm/Jd8f3373c8a4",
+    "source": "age-of-reflections",
+    "location": "First Congregational UCC",
+    "summary": "with Hinako Omori"
   },
   {
     "id": "auto-5b2ebe83aa387d6be8bb32d0",
