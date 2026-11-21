@@ -1,50 +1,5 @@
 [
   {
-    "id": "auto-79002cd93b634c941048471b",
-    "artist": "Crystal Ballroom History & Art Tour",
-    "date": "2026-11-19",
-    "time": "10:00",
-    "venueId": "crystal-ballroom",
-    "ticketUrl": "https://www.crystalballroompdx.com/events/279285-crystal-ballroom-history-art-tour/",
-    "source": "crystal-ballroom"
-  },
-  {
-    "id": "auto-0c1267ba249bf38be971a448",
-    "artist": "Thundercat",
-    "date": "2026-11-19",
-    "time": "20:00",
-    "venueId": "crystal-ballroom",
-    "ticketUrl": "https://www.crystalballroompdx.com/events/277813-thundercat/",
-    "source": "crystal-ballroom"
-  },
-  {
-    "id": "auto-9f264d3867505ffd00c73993",
-    "artist": "The Cactus Blossoms",
-    "date": "2026-11-19",
-    "time": "20:00",
-    "venueId": "mississippi-studios",
-    "ticketUrl": "https://www.etix.com/ticket/p/40638516/the-cactus-blossoms-portland-mississippi-studios",
-    "source": "mississippi-studios"
-  },
-  {
-    "id": "auto-b837555290845e35473a540d",
-    "artist": "MATTRESS - 20 YEARS OF MATTRESS",
-    "date": "2026-11-19",
-    "time": "20:00",
-    "venueId": "polaris-hall",
-    "ticketUrl": "https://www.etix.com/ticket/p/91263217",
-    "source": "polaris-hall"
-  },
-  {
-    "id": "auto-58d3918d0e1c6714d1d73a85",
-    "artist": "Jamila Woods: 10 Years of HEAVN",
-    "date": "2026-11-19",
-    "time": "20:00",
-    "venueId": "wonder-ballroom",
-    "ticketUrl": "https://wonderballroom.com/event/jamila-woods-10-years-of-heavn/wonder-ballroom/portland-oregon/",
-    "source": "wonder-ballroom"
-  },
-  {
     "id": "auto-a8d433fc79e5eb6c1781472b",
     "artist": "Haley Johnsen",
     "date": "2026-11-20",
@@ -633,7 +588,7 @@
     "id": "auto-edf2cccfd65c40c9e84a98b9",
     "artist": "Local Love Letter #31: Mary Eliza & Pillow Spiders",
     "date": "2026-12-09",
-    "time": "",
+    "time": "20:00",
     "venueId": "mississippi-studios",
     "ticketUrl": "https://www.etix.com/ticket/p/47377019/local-love-letter-31mary-eliza-pillow-spiders-portland-mississippi-studios",
     "source": "mississippi-studios"
@@ -1285,6 +1240,15 @@
     "venueId": "revolution-hall",
     "ticketUrl": "https://www.etix.com/ticket/p/30492694/pigs-on-the-wingbeyond-pompeii-portland-revolution-hall",
     "source": "revolution-hall"
+  },
+  {
+    "id": "auto-9897d6afb7fc36701bbbde48",
+    "artist": "Sam Burton",
+    "date": "2027-01-26",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/39215187/sam-burton-portland-mississippi-studios",
+    "source": "mississippi-studios"
   },
   {
     "id": "auto-38e017c5b24fac6c5574e1dc",
@@ -2556,6 +2520,15 @@
     "source": "crystal-ballroom"
   },
   {
+    "id": "auto-f45686e964e06a374a96d86d",
+    "artist": "Ron Gallo",
+    "date": "2027-04-27",
+    "time": "",
+    "venueId": "mississippi-studios",
+    "ticketUrl": "https://www.etix.com/ticket/p/71590476/ron-gallo-portland-mississippi-studios",
+    "source": "mississippi-studios"
+  },
+  {
     "id": "auto-7718bbafbc6768e55372d598",
     "artist": "Gurriers",
     "date": "2027-04-28",
@@ -2590,6 +2563,15 @@
     "venueId": "mississippi-studios",
     "ticketUrl": "https://www.etix.com/ticket/p/48850758/the-chameleons-portland-mississippi-studios",
     "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-bb276437eea8c4141ab66de2",
+    "artist": "An Alleged Evening with Conor Oberst",
+    "date": "2027-05-05",
+    "time": "20:00",
+    "venueId": "revolution-hall",
+    "ticketUrl": "https://www.etix.com/ticket/p/96935603/an-alleged-evening-with-conor-oberst-portland-revolution-hall",
+    "source": "revolution-hall"
   },
   {
     "id": "auto-4b8953150caef0444498ae76",
