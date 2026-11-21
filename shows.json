@@ -1,69 +1,5 @@
 [
   {
-    "id": "auto-a8d433fc79e5eb6c1781472b",
-    "artist": "Haley Johnsen",
-    "date": "2026-11-20",
-    "time": "20:00",
-    "venueId": "crystal-ballroom",
-    "ticketUrl": "https://www.crystalballroompdx.com/events/278001-haley-johnsen/",
-    "source": "crystal-ballroom"
-  },
-  {
-    "id": "auto-bb10461ea2a8fe7143804cd6",
-    "artist": "RESCHEDULED TO 3/17/27 AT POLARIS HALL: Luke Kidgell",
-    "date": "2026-11-20",
-    "time": "00:00",
-    "venueId": "mississippi-studios",
-    "ticketUrl": "https://www.etix.com/ticket/p/93977387/rescheduled-to-31727-at-polaris-hallluke-kidgell-portland-mississippi-studios",
-    "source": "mississippi-studios"
-  },
-  {
-    "id": "auto-95de441194319938aa6c6214",
-    "artist": "Sallie Ford & the Sound Outside",
-    "date": "2026-11-20",
-    "time": "21:00",
-    "venueId": "mississippi-studios",
-    "ticketUrl": "https://www.etix.com/ticket/p/54677666/sallie-ford-the-sound-outside-portland-mississippi-studios",
-    "source": "mississippi-studios"
-  },
-  {
-    "id": "auto-9b0281a747f9582d7e684f60",
-    "artist": "The Teacher Show: Comedy from the Classroom (Night 1)",
-    "date": "2026-11-20",
-    "time": "19:30",
-    "venueId": "polaris-hall",
-    "ticketUrl": "https://www.etix.com/ticket/p/73273847",
-    "source": "polaris-hall"
-  },
-  {
-    "id": "auto-6ddc63a9ee88f7927d0e9628",
-    "artist": "SOLD OUT: Gary Numan North American Fall Tour 2026",
-    "date": "2026-11-20",
-    "time": "20:00",
-    "venueId": "revolution-hall",
-    "ticketUrl": "https://www.etix.com/ticket/p/73115991/sold-outgary-numan-north-american-fall-tour-2026-portland-revolution-hall",
-    "source": "revolution-hall"
-  },
-  {
-    "id": "auto-a6f8e62795c6dc09d4285e25",
-    "artist": "New Member Orientation",
-    "date": "2026-11-20",
-    "time": "18:00",
-    "venueId": "synth-library-portland",
-    "ticketUrl": "https://www.synthlibraryportland.org/events/new-member-orientation-november20",
-    "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States"
-  },
-  {
-    "id": "auto-f3b8026006c05936af08798e",
-    "artist": "Growing Pains",
-    "date": "2026-11-20",
-    "time": "20:00",
-    "venueId": "wonder-ballroom",
-    "ticketUrl": "https://wonderballroom.com/event/growing-pains-2/wonder-ballroom/portland-oregon/",
-    "source": "wonder-ballroom"
-  },
-  {
     "id": "auto-3da4ed0c13d51c0a530ecfe9",
     "artist": "90’s Dance Flashback",
     "date": "2026-11-21",
@@ -724,7 +660,7 @@
     "id": "auto-02d3f05bae108c2e357ce820",
     "artist": "Nori Reed: Nori Is Present LIVE at Mississippi Studios",
     "date": "2026-12-10",
-    "time": "",
+    "time": "20:00",
     "venueId": "mississippi-studios",
     "ticketUrl": "https://www.etix.com/ticket/p/95870738/nori-reednori-is-present-live-at-mississippi-studios-portland-mississippi-studios",
     "source": "mississippi-studios"
@@ -1782,6 +1718,15 @@
     "venueId": "revolution-hall",
     "ticketUrl": "https://www.etix.com/ticket/p/83277371/charlie-berensthe-lost-and-found-tour-portland-revolution-hall",
     "source": "revolution-hall"
+  },
+  {
+    "id": "auto-741652cd5781369f5b4dd066",
+    "artist": "Mike Gordon",
+    "date": "2027-02-21",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/280336-mike-gordon/",
+    "source": "crystal-ballroom"
   },
   {
     "id": "auto-cb100cfe7b48dcc967e175f3",
@@ -2907,6 +2852,15 @@
     "venueId": "mississippi-studios",
     "ticketUrl": "https://www.etix.com/ticket/p/56194896/madra-salach-portland-mississippi-studios",
     "source": "mississippi-studios"
+  },
+  {
+    "id": "auto-c1dd24997bd96776fba679c7",
+    "artist": "Haute & Freddy",
+    "date": "2027-05-20",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/280316-haute-freddy/",
+    "source": "crystal-ballroom"
   },
   {
     "id": "auto-6f396c813baf85067000b952",
