@@ -1,52 +1,5 @@
 [
   {
-    "id": "auto-c504f82762cb002dbe4c29da",
-    "artist": "JOHN CARROLL KIRBY",
-    "date": "2026-11-21",
-    "time": "",
-    "venueId": "age-of-reflections",
-    "ticketUrl": "https://ageofreflections.com/261121-John-Carroll-Kirby-in-Portland",
-    "source": "age-of-reflections",
-    "location": "First Congregational UCC",
-    "summary": "with Saloli"
-  },
-  {
-    "id": "auto-3da4ed0c13d51c0a530ecfe9",
-    "artist": "90’s Dance Flashback",
-    "date": "2026-11-21",
-    "time": "20:00",
-    "venueId": "crystal-ballroom",
-    "ticketUrl": "https://www.crystalballroompdx.com/events/278430-90s-dance-flashback/",
-    "source": "crystal-ballroom"
-  },
-  {
-    "id": "auto-68318d870b4e06e3d4f5bee2",
-    "artist": "Bobby Short Shorts: An Evening of Grateful Dead Music",
-    "date": "2026-11-21",
-    "time": "21:00",
-    "venueId": "mississippi-studios",
-    "ticketUrl": "https://www.etix.com/ticket/p/86386129/bobby-short-shortsan-evening-of-grateful-dead-music-portland-mississippi-studios",
-    "source": "mississippi-studios"
-  },
-  {
-    "id": "auto-ce22cb333653ed6fc648304a",
-    "artist": "The Teacher Show: Comedy from the Classroom (Night 2)",
-    "date": "2026-11-21",
-    "time": "19:30",
-    "venueId": "polaris-hall",
-    "ticketUrl": "https://www.etix.com/ticket/p/65038002",
-    "source": "polaris-hall"
-  },
-  {
-    "id": "auto-38ba3a2b85cd8116f958b7cd",
-    "artist": "Phoebe Robinson: Feral & Fired Up!",
-    "date": "2026-11-21",
-    "time": "20:00",
-    "venueId": "revolution-hall",
-    "ticketUrl": "https://www.etix.com/ticket/p/91940693/phoebe-robinsonferal-fired-up-portland-revolution-hall",
-    "source": "revolution-hall"
-  },
-  {
     "id": "auto-d7d384291eba5557cf849c6a",
     "artist": "Crystal Ballroom History & Art Tour",
     "date": "2026-11-22",
@@ -718,7 +671,7 @@
     "id": "auto-e2e5c9b7ee4363f3f74a965a",
     "artist": "SOLD OUT: Willi Carlisle - The Universal Bubba Tour",
     "date": "2026-12-11",
-    "time": "",
+    "time": "21:00",
     "venueId": "mississippi-studios",
     "ticketUrl": "https://www.etix.com/ticket/p/93180478/sold-outwilli-carlisle-the-universal-bubba-tour-portland-mississippi-studios",
     "source": "mississippi-studios"
