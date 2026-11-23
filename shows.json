@@ -1,32 +1,5 @@
 [
   {
-    "id": "auto-d7d384291eba5557cf849c6a",
-    "artist": "Crystal Ballroom History & Art Tour",
-    "date": "2026-11-22",
-    "time": "10:00",
-    "venueId": "crystal-ballroom",
-    "ticketUrl": "https://www.crystalballroompdx.com/events/279284-crystal-ballroom-history-art-tour/",
-    "source": "crystal-ballroom"
-  },
-  {
-    "id": "auto-cfb4a01ec7d7de5669469af5",
-    "artist": "Jack Bensinger",
-    "date": "2026-11-22",
-    "time": "20:00",
-    "venueId": "mississippi-studios",
-    "ticketUrl": "https://www.etix.com/ticket/p/90187834/jack-bensinger-portland-mississippi-studios",
-    "source": "mississippi-studios"
-  },
-  {
-    "id": "auto-bbe3db7adcbf1aa399307b22",
-    "artist": "Mx. Dahlia Belle: Affirmed (A Live Comedy Taping)",
-    "date": "2026-11-22",
-    "time": "19:00",
-    "venueId": "polaris-hall",
-    "ticketUrl": "https://www.etix.com/ticket/p/36347493",
-    "source": "polaris-hall"
-  },
-  {
     "id": "auto-42901941f767592b5e72a96f",
     "artist": "Senses Fail",
     "date": "2026-11-23",
@@ -698,7 +671,7 @@
     "id": "auto-2e69f1cc8fa3c2927182196f",
     "artist": "OK NOT OK (RADIOHEAD tribute) plays The Bends LIVE!",
     "date": "2026-12-12",
-    "time": "",
+    "time": "21:00",
     "venueId": "mississippi-studios",
     "ticketUrl": "https://www.etix.com/ticket/p/32694648/ok-not-ok-radiohead-tributeplays-the-bends-live-portland-mississippi-studios",
     "source": "mississippi-studios"
@@ -745,7 +718,7 @@
     "id": "auto-94c90772d9f2a9a9a01c6830",
     "artist": "ML Johnson (Release Show)",
     "date": "2026-12-13",
-    "time": "",
+    "time": "20:00",
     "venueId": "mississippi-studios",
     "ticketUrl": "https://www.etix.com/ticket/p/48776452/ml-johnson-release-show-portland-mississippi-studios",
     "source": "mississippi-studios"
