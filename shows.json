@@ -1,32 +1,5 @@
 [
   {
-    "id": "auto-42901941f767592b5e72a96f",
-    "artist": "Senses Fail",
-    "date": "2026-11-23",
-    "time": "20:00",
-    "venueId": "crystal-ballroom",
-    "ticketUrl": "https://www.crystalballroompdx.com/events/277292-senses-fail/",
-    "source": "crystal-ballroom"
-  },
-  {
-    "id": "auto-77c8a0f0d965e44712fca9c7",
-    "artist": "Local Love Letter #30: Victory Over The Sun",
-    "date": "2026-11-23",
-    "time": "20:00",
-    "venueId": "mississippi-studios",
-    "ticketUrl": "https://www.etix.com/ticket/p/50476902/local-love-letter-30victory-over-the-sun-portland-mississippi-studios",
-    "source": "mississippi-studios"
-  },
-  {
-    "id": "auto-7c41f818a3781862c29ea3a1",
-    "artist": "Babe Haven",
-    "date": "2026-11-23",
-    "time": "20:00",
-    "venueId": "polaris-hall",
-    "ticketUrl": "https://www.etix.com/ticket/p/59224066",
-    "source": "polaris-hall"
-  },
-  {
     "id": "auto-63fa658b7f09bd50705fc895",
     "artist": "Chorale For A Cause",
     "date": "2026-11-24",
@@ -90,6 +63,17 @@
     "venueId": "crystal-ballroom",
     "ticketUrl": "https://www.crystalballroompdx.com/events/279283-crystal-ballroom-history-art-tour/",
     "source": "crystal-ballroom"
+  },
+  {
+    "id": "auto-df261e0b53a0280c5870dda7",
+    "artist": "Member Drop-In Hours",
+    "date": "2026-11-26",
+    "time": "16:00",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/memberdrop-inhours-november26",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States",
+    "summary": "Drop-in hours for members of any tier to drop by the library every Thursday 4-8:30pm, no RSVP needed!"
   },
   {
     "id": "auto-c6fdb343f99b6a4d5245d858",
@@ -307,6 +291,17 @@
     "source": "revolution-hall"
   },
   {
+    "id": "auto-dd11f31f8a511b82243cd009",
+    "artist": "Member Drop-In Hours",
+    "date": "2026-12-03",
+    "time": "16:00",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/memberdrop-inhours-december3",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States",
+    "summary": "Drop-in hours for members of any tier to drop by the library every Thursday 4-8:30pm, no RSVP needed!"
+  },
+  {
     "id": "auto-521c581ac5cde1b34e8da6b7",
     "artist": "Yule Benefit Tour 2026",
     "date": "2026-12-04",
@@ -377,6 +372,17 @@
     "venueId": "revolution-hall",
     "ticketUrl": "https://www.etix.com/ticket/p/58008973/sanctuary-park-tourcelebrating-40-years-of-the-jayhawks-portland-revolution-hall",
     "source": "revolution-hall"
+  },
+  {
+    "id": "auto-db76737861930b5e70d31c92",
+    "artist": "Synth Library Open House",
+    "date": "2026-12-05",
+    "time": "13:30",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/synth-library-open-house-december5",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States",
+    "summary": "Come explore our collection of gear, meet our volunteers, and become a member! We’re offering free admission to our 2026 Benefit Party for all new members who sign up at this event."
   },
   {
     "id": "auto-3430528009ecad5805e9e95f",
@@ -2936,5 +2942,14 @@
     "venueId": "revolution-hall",
     "ticketUrl": "https://www.etix.com/ticket/p/32713252/welcome-to-night-valeattack-of-the-space-people-portland-revolution-hall",
     "source": "revolution-hall"
+  },
+  {
+    "id": "auto-cd6cc6a4f1a82b52b2307aae",
+    "artist": "The 27th Annual Portland Erotic Ball",
+    "date": "2027-10-30",
+    "time": "20:00",
+    "venueId": "crystal-ballroom",
+    "ticketUrl": "https://www.crystalballroompdx.com/events/280351-the-27th-annual-portland-erotic-ball/",
+    "source": "crystal-ballroom"
   }
 ]
