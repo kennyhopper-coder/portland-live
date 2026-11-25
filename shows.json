@@ -1,23 +1,5 @@
 [
   {
-    "id": "auto-63fa658b7f09bd50705fc895",
-    "artist": "Chorale For A Cause",
-    "date": "2026-11-24",
-    "time": "19:30",
-    "venueId": "mississippi-studios",
-    "ticketUrl": "https://www.etix.com/ticket/p/88154444/chorale-for-a-cause-portland-mississippi-studios",
-    "source": "mississippi-studios"
-  },
-  {
-    "id": "auto-cd020ee8c230d919555c06a8",
-    "artist": "Portland School III",
-    "date": "2026-11-24",
-    "time": "19:00",
-    "venueId": "polaris-hall",
-    "ticketUrl": "https://www.etix.com/ticket/p/36916561",
-    "source": "polaris-hall"
-  },
-  {
     "id": "auto-ff31ac06c02bc46c275d00c2",
     "artist": "The Pynnacles + Jewelry Exchange",
     "date": "2026-11-25",
@@ -762,7 +744,7 @@
     "id": "auto-489f78a28ca2a2ebd976bbbb",
     "artist": "SOLD OUT: Swervedriver raise at 35",
     "date": "2026-12-15",
-    "time": "",
+    "time": "20:00",
     "venueId": "mississippi-studios",
     "ticketUrl": "https://www.etix.com/ticket/p/74993592/sold-outswervedriver-raise-at-35-portland-mississippi-studios",
     "source": "mississippi-studios"
@@ -800,7 +782,7 @@
     "id": "auto-d144b8a58db803f6c83b2a3c",
     "artist": "45th Parallel Holiday Variety Show II",
     "date": "2026-12-16",
-    "time": "",
+    "time": "19:00",
     "venueId": "mississippi-studios",
     "ticketUrl": "https://www.etix.com/ticket/p/66697949/45th-parallel-holiday-variety-show-ii-portland-mississippi-studios",
     "source": "mississippi-studios"
@@ -851,6 +833,17 @@
     "venueId": "revolution-hall",
     "ticketUrl": "https://www.etix.com/ticket/p/50454498/yob-portland-revolution-hall",
     "source": "revolution-hall"
+  },
+  {
+    "id": "auto-a516bed354eb5bc61817005e",
+    "artist": "Member Drop-In Hours",
+    "date": "2026-12-17",
+    "time": "16:00",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/memberdrop-inhours-december-17",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States",
+    "summary": "Drop-in hours for members of any tier to drop by the library every Thursday 4-8:30pm, no RSVP needed!"
   },
   {
     "id": "auto-50caaee7ec68b835a3a88a93",
@@ -987,6 +980,17 @@
     "source": "crystal-ballroom"
   },
   {
+    "id": "auto-360ed4b970f4085b8fbe74a8",
+    "artist": "Member Drop-In Hours",
+    "date": "2026-12-24",
+    "time": "16:00",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/memberdrop-inhours-december-17-5sf63",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States",
+    "summary": "Drop-in hours for members of any tier to drop by the library every Thursday 4-8:30pm, no RSVP needed!"
+  },
+  {
     "id": "auto-557e0215d298eb87b45fd354",
     "artist": "Holiday Rehab Comedy Show",
     "date": "2026-12-26",
@@ -1048,6 +1052,17 @@
     "venueId": "revolution-hall",
     "ticketUrl": "https://www.etix.com/ticket/p/95972752/the-disco-biscuits-nye-portland-revolution-hall",
     "source": "revolution-hall"
+  },
+  {
+    "id": "auto-191ef2ad0bfb8de5e93d0feb",
+    "artist": "Member Drop-In Hours",
+    "date": "2026-12-31",
+    "time": "16:00",
+    "venueId": "synth-library-portland",
+    "ticketUrl": "https://www.synthlibraryportland.org/events/memberdrop-inhours-december-30",
+    "source": "synth-library-portland",
+    "location": "123 Northeast 3rd Avenue, Portland, OR, 97232, United States",
+    "summary": "Drop-in hours for members of any tier to drop by the library every Thursday 4-8:30pm, no RSVP needed!"
   },
   {
     "id": "auto-d4d09847077856e188a98de0",
