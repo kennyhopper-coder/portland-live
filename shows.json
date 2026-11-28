@@ -1,52 +1,5 @@
 [
   {
-    "id": "auto-e82d39d48c9acde52297a064",
-    "artist": "Crystal Ballroom History & Art Tour",
-    "date": "2026-11-26",
-    "time": "10:00",
-    "venueId": "crystal-ballroom",
-    "ticketUrl": "https://www.crystalballroompdx.com/events/279283-crystal-ballroom-history-art-tour/",
-    "source": "crystal-ballroom"
-  },
-  {
-    "id": "auto-c6fdb343f99b6a4d5245d858",
-    "artist": "Decadent 80s Dance Party",
-    "date": "2026-11-27",
-    "time": "20:00",
-    "venueId": "crystal-ballroom",
-    "ticketUrl": "https://www.crystalballroompdx.com/events/278681-decadent-80s-dance-party/",
-    "source": "crystal-ballroom"
-  },
-  {
-    "id": "auto-d9771fb635b574eeee2d0e93",
-    "artist": "Grand Royale – Beastie Boys Tribute",
-    "date": "2026-11-27",
-    "time": "21:00",
-    "venueId": "mississippi-studios",
-    "ticketUrl": "https://www.etix.com/ticket/p/35054633/grand-royale-beastie-boys-tribute-portland-mississippi-studios",
-    "source": "mississippi-studios"
-  },
-  {
-    "id": "auto-e8bb0f7280940806de6532fb",
-    "artist": "Neurosis",
-    "date": "2026-11-27",
-    "time": "19:30",
-    "venueId": "revolution-hall",
-    "ticketUrl": "https://www.etix.com/ticket/p/36423231/neurosis-portland-revolution-hall",
-    "source": "revolution-hall"
-  },
-  {
-    "id": "auto-4362d15b642e15184eb5e85a",
-    "artist": "New Volunteer Orientation",
-    "date": "2026-11-27",
-    "time": "17:30",
-    "venueId": "synth-library-portland",
-    "ticketUrl": "https://www.synthlibraryportland.org/events/new-volunteer-orientation-november27",
-    "source": "synth-library-portland",
-    "location": "123 Northeast 3rd Avenue, Portland, Oregon, 97232, United States",
-    "summary": "Have you wanted to get more involved with the library but didn’t know where to start? This in-person onboarding seminar will get you up to speed about the many types of work that helps run and grow our organization.…"
-  },
-  {
     "id": "auto-f52331ce8ed11f4103aefeed",
     "artist": "Inaugural Holiday Bazaar Brewfest",
     "date": "2026-11-28",
@@ -771,7 +724,7 @@
     "id": "auto-c7e019ed3b2ac3469379f932",
     "artist": "Portland Songwriters Guild: Holiday Hits Vol. 5",
     "date": "2026-12-17",
-    "time": "",
+    "time": "20:00",
     "venueId": "mississippi-studios",
     "ticketUrl": "https://www.etix.com/ticket/p/41737560/portland-songwriters-guildholiday-hits-vol5-portland-mississippi-studios",
     "source": "mississippi-studios"
